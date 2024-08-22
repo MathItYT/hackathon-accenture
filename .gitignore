@@ -1,0 +1,8 @@
+__pycache__/
+.env
+poetry.lock
+.vscode/
+.venv/
+build/
+*.egg-info/
+flagged/

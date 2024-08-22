@@ -1,0 +1,2591 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Plan de Acción 
+Política Nacional de
+Inteligencia Artificial
+
+ACTUALIZACIÓN 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+GOBIERNO DE CHILE	CHILE AVANZA CONTIGO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+minciencia.gob.cl
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Plan de Acción 
+Política Nacional de
+Inteligencia Artificial
+
+ACTUALIZACIÓN 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ SOBRE EL PLAN 
+El PLAN DE ACCIÓN asociado a la Política Nacional de Inteligencia Artificial de Chile establece las iniciativas para cumplir con los objetivos delineados en la Política. Este plan de acción, compuesto
+de 177 iniciativas, que involucra a 14 ministerios, es esencial para la implementación efectiva de la
+política, asegurando que las directrices establecidas sean llevadas a cabo de manera coordinada
+y eficiente.
+Las acciones están organizadas al igual que la Política, en 3 ejes:
+
+
+
+
+
+
+EJE N°1 • FACTORES HABILITANTES
+-
+Son los elementos basales que posibilitan la existencia y el despliegue de sistemas de IA. Es decir, aquellos componentes sin los cuales la investigación, desarrollo
+y uso de esta tecnología se hace imposible. Se incluyen en este eje el desarrollo de talentos, infraestructura tecnológica, y datos. Se plantean objetivos para desarrollar talento, impulsar la infraestructura tecnológica para avanzar hacia un polo de desarrollo regional; y consolidar una agenda de fortalecimiento de nuestro sistema de datos.
+
+
+
+
+EJE N°2 • DESARROLLO Y ADOPCIÓN
+-
+Comprende el espacio donde se investiga, desarrolla y despliega la IA. Este espacio contiene a los actores que crean, proveen y demandan diferentes aplicaciones y técnicas de IA, como la academia, el Estado, el sector privado y la sociedad civil.
+En este eje se incluye investigación básica y aplicada, transferencia tecnológica, innovación, emprendimiento, mejoramiento de servicios públicos, desarrollo económico basado en tecnología, adopciones que incrementen la productividad, entre otros.
+
+EJE N°3 • GOBERNANZA Y ÉTICA
+-
+Este eje aborda las nuevas discusiones y desafíos que han surgido a propósito de la interacción entre las personas y esta tecnología. Los elementos
+incorporados tienen como objetivo avanzar en marcos de acción para el desarrollo, uso e implementación
+de sistemas de IA, que permitan proteger a las personas de sus potenciales impactos y acompañar las transformaciones sociales, económicas y medioambientales asociadas a estos sistemas.
+Al igual que la Política, este plan de acción tiene vigencia hasta 2031, 10 años después de publicada la primera versión. En línea con la actualización del Eje 3, este plan de acción fue revisado y actualizado en todos sus ejes y, con especial énfasis en el eje 3 sobre Gobernanza y Ética.
+El plan identifica claramente los Ministerios y organismos gubernamentales responsables de ejecutar cada acción, que incluye a un total de 14 ministerios diferentes. La asignación de responsabilidades busca garantizar que cada acción cuente con el liderazgo y la coordinación adecuada, facilitando así su ejecución efectiva. El plan establece iniciativas de implementación permanente
+y con plazos semestrales, para monitorear el progreso y asegurar que la ejecución de la política se realice de manera oportuna.
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+Política Nacional de Inteligencia Artificial | PLAN DE ACCIÓN
+
+
+
+EJE 1
+FACTORES
+ HABILITANTES 
+
+
+
+
+
+Política Nacional de Inteligencia Artificial | MinCiencia
+
+ EJE 1 FACTORES HABILITANTES 
+1.1 DESARROLLO DE TALENTO
+1.1.1 Promover el desarrollo de habilidades para el uso, desarrollo, comprensión de la IA en el sistema escolar.
+
+
+
+
+
+
+
+
+
+
+GENERAR RECURSOS PARA EL APRENDIZAJE DE IA EN EL CONTEXTO EDUCATIVO.1. Generación de recursos sobre IA y recomendaciones sobre cómo abordar esta tecnología en el contexto educativo.
+Generación de recursos gratuitos para NNAs, familias y docentes para abordar las competencias digitales y la IA; articular actores involucrados en el ámbito de la IA, la programación y niños, niñas y adolescentes, y genere contenidos educativos adaptados a la realidad nacional.Ministerio de Educación
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+6-2025
+
+2. Actividades de acercamiento de la IA para niños, niñas y adolescentes.
+Se realizarán eventos para acercar la IA y su uso ético desde distintas perspectivas al mundo escolar. Estos eventos contarán servirán para exponer a NNAs a recursos de aprendizaje de IA en el contexto educativo, ayudando a su adopción.Ministerio de Educación
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+En imple- mentación
+FORTALECER LA DIMENSIÓN DE CONOCIMIENTOS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN (TIC) EN LAS BASES CURRICULARES PARA INCORPORAR HABILIDADES
+NECESARIAS PARA EL DESARROLLO Y USO ÉTICO DE LA IA.
+
+
+
+
+
+
+3. Actualización de las bases curriculares.En colaboración con las comunidades educativas, el mundo privado y organizaciones no gubernamentales se trabajará en fortalecer las bases curriculares para que incorporen, desde los primeros cursos, pensamiento
+computacional y pensamiento crítico y ética en torno a la tecnología.
+Esto debe hacerse en forma gradual hasta incorporarlo desde la etapa preescolar. En esta línea, se debe abordar la IA como una tecnología de propósito general, entendiendo que está presente en diversas disciplinas
+y espacios. Así, la IA puede constituir en sí misma una herramienta relevante para la reforma del currículum y el apoyo al aprendizaje. Se pueden promover nuevas
+metodologías de aprendizaje que permitan a niños, niñas y adolescentes interactuar y adquirir experiencias prácticas con la tecnología.
+
+
+
+
+
+
+Ministerio de Educación
+
+
+
+
+
+
+6-2025
+
+
+
+
+PROMOVER EL DESARROLLO DE HABILIDADES
+NECESARIAS PARA LA IMPLEMENTACIÓN
+Y DESARROLLO IA EN LA COMUNIDAD EDUCATIVA.4.  Acciones
+formativas para el desarrollo profesional
+docente en materia de habilidades para la implementación y desarrollo de IA.
+Iniciativa enfocada en la formación de docentes y profesionales de la educación en temáticas vinculadas al pensamiento computacional, programación y robótica. Estas acciones buscarán certificar docentes y proveer herramientas que los apoyen en el uso de herramientas de IA en entornos educativos.
+
+
+Ministerio de Educación
+
+
+12-2026
+
+5. Encuentros de Directores en IA y educación.
+Generar una instancia de encuentro anual donde directores de colegios puedan interactuar con la academia y la industria que desarrolla y aplica IA. Esta instancia tendrá como objetivo que se visibilicen casos de uso
+y riesgos y así se aprovechen oportunidades para los establecimientos educativos.Ministerio de Educación
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-20266. Campaña de sensibilización sobre IA.Se desarrollará una campaña de sensibilización y educación sobre los sistemas de IA, sus riesgos y oportunidades en el ámbito educacional.Ministerio de Educación
+6-2026
+
+
+
+
+
+
+
+
+
+
+
+GENERAR ESPACIOS DE PARTICIPACIÓN A NIVEL NACIONAL PARA ESTUDIANTES DE EDUCACIÓN BÁSICA Y MEDIA, EN
+BASE AL DESARROLLO DE PROYECTOS Y
+LA RESOLUCIÓN DE DESAFÍOS.
+
+
+7. Visibilización equipos de NNAs y robótica
+
+
+Potenciar el desarrollo de tecnología visibilizando los equipos de robótica y programación. Se fomentarán competencias, hackatones y olimpiadas en pos de motivar la formación de más equipos.
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+En imple- mentación
+
+1.1.2 Impulsar la IA como una disciplina transversal en la formación profesional y técnico-profesional.
+
+
+
+
+8. Identificar las brechas digitales e impulsar la transformación digital en la
+Educación Superior Técnico Profesional.
+
+
+Fomentar el intercambio de experiencias de CFT e IP en empresas de tecnología a nivel nacional e internacionalMinisterio de Educación
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2026
+9. Impulsar la transformación digital de los CFTE y entidades gubernamentales relacionadas.
+Identificar las brechas digitales e impulsar la transformación digital del sector, relevar oportunidades, desafíos y metas país, reconocer y regular la modalidad online y el uso de la IA en la Educación Superior Técnico Profesional.Ministerio de Educación
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2026IDENTIFICAR, DISEÑAR, ADAPTAR Y POTENCIAR INSTRUMENTOS
+DE CERTIFICACIÓN O CALIFICACIÓN PARA HABILIDADES RELACIONADAS A IA.10. Diseño de sistema de certificación de competencias en IA.Se diseñarán sistemas de certificaciones de conocimientos más ágiles que los diplomas tradicionales, considerando habilidades, competencias y experiencia.Ministerio del Trabajo y
+Previsión Social
+12-202611. Fortalecimiento del marco de cualificaciones.Fortalecer y actualizar los marcos de cualificaciones, desarrollando la IA en la ruta formativa y laboral de Tecnologías de la Información.Ministerio de Educación
+06-2025INCORPORAR LA IA Y LA ÉTICA COMO UN CONOCIMIENTO TRANSVERSAL A LAS CARRERAS DE LAS INSTITUCIONES DE
+EDUCACIÓN SUPERIOR (IES).
+12. IA en planes de desarrollo de las carreras de las Instituciones de Educación Superior.
+Se trabajará en planes estratégicos e instrumentos que consideren subsidios y cofinanciamiento para fortalecer los contenidos digitales en las carreras y la incorporación de IA. Estos planes deben incorporar la noción de
+la IA como una tecnología de propósito general y fomentar la interdisciplina.
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+Ministerio de Educación
+
+
+12-2028
+
+1.1.3 Promover la formación de habilidades para el uso, desarrollo, comprensión y análisis crítico de la IA a trabajadoras y trabajadores de Chile.
+
+
+
+
+POTENCIAR PROGRAMAS E INSTRUMENTOS DE CAPACITACIÓN PARA ACTUALIZAR Y RECONVERTIR (UPSKILLING Y
+RESKILLING) A LAS Y LOS TRABAJADORES DEL PAÍS.
+
+13. Nuevos cursos sobre aplicaciones específicas de IA en programa de Pymes en Línea.
+
+
+
+Avanzar en nuevos cursos sobre aplicaciones específicas de IA, especialmente aquellas con bajo nivel de código.
+
+
+Ministerio de Economía, Fomento y Turismo
+
+
+
+12-2025
+
+1.1.4 Incrementar la cantidad de expertos y expertas en IA e incentivar su incorporación de este talento al sector académico, público y privado.
+
+
+
+
+
+
+
+PROMOVER LA FOCALIZACIÓN DE FONDOS PÚBLICOS DESTINADOS A FORMAR TALENTOS LIGADO A LABORES DE INVESTIGACIÓN, DESARROLLO Y USOS TÉCNICOS EN TORNO A LA IA.14. Focalización de Becas Chile de doctorado y
+Magíster en áreas vinculadas a IA.
+Continuando con la focalización que ya se ha realizado en años anteriores, se continuará priorizando el área de la IA desde una perspectiva multidisciplinaria.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+En imple- mentación
+
+
+15. Modificación de los mecanismos de retribución de Becas Chile.
+
+
+Revisión de los requisitos de retribución de Becas Chile, considerando acciones que fortalezcan el sistema de IA no solo mediante el retorno de los becarios, sino que también con oportunidades de fortalecer redes internacionales, la innovación y el emprendimiento.
+
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+12-2027PROMOVER LA GENERACIÓN DE INCENTIVOS EN LA ACADEMIA Y LA INDUSTRIA LOCAL
+PARA APROVECHAR LOS TALENTOS FORMADOS EN IA.
+16. Incentivo a la inserción de doctores en la industria tecnológica.
+
+Se propone incorporar un incentivo tributario en el que, al momento de rendir gastos, las empresas puedan multiplicar el ingreso en salario a doctores por un factor superior a 1.
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2025ADECUAR LA ACREDITACIÓN DE LOS PROGRAMAS NACIONALES
+DE ACUERDO CON MÉTRICAS
+INTERNACIONALES DE IA.
+17. Incorporar criterios específicos propios de IA en los Grupos de Evaluación Fondecyt.
+
+Se estudiará y avanzar hacia los mejores mecanismos para incorporar criterios específicos propios de IA en los Grupos de Evaluación Fondecyt, para que estos estén más acordes con la disciplina
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+06-2026
+
+1.1.5 Realizar ejercicios de prospección
+periódicos para orientar la formación de talento.
+
+
+
+
+
+
+
+
+
+REALIZAR EJERCICIOS PERMANENTES DE PROSPECCIÓN Y ANTICIPACIÓN EN IA PARA LA ORIENTACIÓN DE LA FORMACIÓN DE TALENTO.
+
+18. Fortalecer el Pulso de Demanda Digital, con un enfoque en IA.
+
+Fortalecer el Pulso de Demanda Digital, con un enfoque en IA para generar un catastro que cuantifique la necesidad y el uso de talento especializado en IA, identificando claramente la demanda del sector público, privado y académico.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Trabajo y
+Previsión Social
+
+
+06-2026
+
+19. Proceso de prospección sobre el futuro de las tecnologías.
+
+Tomando como referencia la metodología de Vigilancia Tecnológica y Prospección Laboral de los Observatorios Laborales Regionales, financiados por la Subsecretaría del Trabajo, se realizarán ejercicios para anticipar el talento requerido en distintos escenarios.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Trabajo y
+Previsión Social
+
+
+06-2026
+ACTUALIZAR DE MANERA CONSTANTE LAS HOJAS DE RUTA DE FORMACIÓN DE TALENTO.
+
+20. Diseño de hojas de ruta de formación de talento.
+
+En base a los ejercicios de anticipación, se construirán hojas de ruta que facilitarán mecanismos de formación de talento, direccionando instrumentos de fomento para ello.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Educación
+
+
+12-2026
+
+
+1.1.6 Impulsar programas de educación y capacitación sobre el uso ético de IA para funcionarios públicos y la ciudadanía.
+
+
+
+
+FORTALECER LA CAPACITACIÓN PERMANENTE EN USO ÉTICO DE IA PARA DIFERENTES CONTEXTOS DE LA ADMINISTRACIÓN PÚBLICA.21. Desarrollar una capacitación en uso ético de IA para diferentes niveles de la administración pública.Se buscará apoyo en organismos multilaterales para el desarrollo de capacitaciones para funcionarios en diferentes contxtos de la administración pública
+(central, regional y municipal) en el uso ético de IA. Estas capacitaciones serán prácticas y fomentarán la búsqueda de oportunidades e ideas innovadoras en sus contextos para la aplicación de IA.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+
+12-2026
+
+
+FOMENTAR LA EDUCACIÓN DE LA CIUDADANÍA SOBRE USO ÉTICO DE LA IA, SUS RIESGOS
+Y BENEFICIOS, PROMOVIENDO EL PENSAMIENTO CRÍTICO Y LA ALFABETIZACIÓN DIGITAL.22. Desarrollar cápsulas y videos educativos de
+IA, sus riesgos y beneficios,
+promoviendo el pensamiento crítico y la alfabetización digital.
+Crear y distribuir una serie de cápsulas y videos educativos que proporcionen una comprensión clara y accesible sobre la inteligencia artificial, destacando tanto sus beneficios como sus riesgos potenciales. Estos recursos estarán diseñados para fomentar el pensamiento crítico y mejorar la alfabetización digital de la poblaciónMinisterio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Educación
+
+
+En imple- mentación
+23. Comunicar y visibilizar
+desarrollos de IA en el estado y sus impactos.
+Implementar una estrategia de comunicación efectiva para informar al público sobre los avances y aplicaciones de la inteligencia artificial dentro del estado. Esta estrategia incluirá la divulgación de los logros, los proyectos en curso, y los impactos tangibles de la IA en la vida cotidiana y los servicios públicos.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+En imple- mentación
+
+1.2 INFRAESTRUCTURA TECNOLÓGICA
+1.2.1 Desplegar y potenciar la infraestructura de conectividad que garantice un acceso de calidad
+
+
+
+
+
+
+
+
+
+ACELERAR EL DESPLIEGUE DEL SISTEMA DE CONECTIVIDAD NACIONAL.
+
+24. Despliegue del sistema de conectividad.
+Fomentar el acceso a la infraestructura de telecomunicaciones para el desarrollo de ciencia y tecnología en las futuras licitaciones de conectividad como contraprestaciónMinisterio de Ciencia, Tecnología, Conocimiento e Innovación
+Ministerio de Transportes y Tele- comunicaciones
+
+12-2024
+25. Despliegue de Infraestructura 5G.Continuar con el despliegue de la red 5G en el territorio nacional, fomentando y beneficiando principalmente a los sectores económicos que proveen servicios digitales o su infraestructura se basa en la digitalizaciónMinisterio de Transportes y Telecomunica- ciones
+12-202626. Completar la puesta en Marcha de la Fibra Óptica Nacional.Continuar con el despliegue de la red nacional de infraestructura digital mediante el proceso de
+implementación y puesta en marcha de los proyectos de inversión orientados a tal objetivo, tales como, FON, FOA, Proyectos de última millaMinisterio de Transportes y Telecomunica- ciones
+12-2025
+
+
+
+
+
+
+IMPLEMENTAR PROYECTOS DE INFRAESTRUCTURA TECNOLÓGICA
+DE IMPORTANCIA REGIONAL Y GLOBAL.
+
+27. Cable
+Transoceánico Humboldt.Despliegue de un cable de fibra óptica submarino entre Chile y la región de Asia Pacífico, que permita a los países de Sudamérica acceder a una nueva vía digital para el tráfico de datos, convirtiendo a Chile en el nuevo HUB digital del hemisferio sur; fomentando la creación de una industria productiva digital y nuevas tecnologías. Así, se busca avanzar en el proceso para tener el cable operando en la meta proyectada de 2025.
+Ministerio de Transportes y Telecomunica- ciones
+
+12-2026
+28. Centro de
+Escalamiento y Nuevos Negocios en torno a tecnologías 5G.
+Iniciativa entre SUBTEL-CORFO que busca promover y facilitar la creación, desarrollo y escalamiento de nuevos negocios basados en herramientas desarrolladas en base la tecnoloigía 5GMinisterio de Transportes y Tele- comunicaciones
+Ministerio de Eco- nomía, Fomento y Turismo
+
+12-2024
+
+29. Estudio de factibilidad Cable Antártico.En colaboración con CAF, se realizará un estudio de factibilidad para un cable de fibra óptica entre Chile y el Continente Antártico, orientado a fomentar el
+posicionamiento de nuestro país como el nuevo HUB digital del hemisferio sur y brindando acceso a los servicios digitales a las iniciativas de investigación que existen en el Continente Antártico
+Ministerio de Transportes y Telecomunica- ciones
+
+12-2026GENERAR PROYECTOS DE CONECTIVIDAD CIUDADANA Y SUBSIDIOS ESTATALES (COMO WI-FI PÚBLICOS, 5G, ENTRE OTROS).
+30. Implementación Plan Brecha Digital Cero.
+Se implementará el plan que cuenta con un eje de Regulación para la conectividad, que agrupa proyectos de ley en discusión en esta materias tales como Subsidio a la demanda; y Conectividad en todo Chile.
+Ministerio de Transportes y Telecomunica- ciones
+
+12-2027
+
+
+
+
+
+
+
+MODERNIZAR LA REGULACIÓN
+PARA GARANTIZAR ESTÁNDARES MÍNIMOS DE ACCESO Y CALIDAD DE SERVICIO.31. Ley de Internet como Servicio Público.Impulsar proyecto de Ley Internet como Servicio Público, que busca elevar el servicio de internet como servicio público.Ministerio de Transportes y Telecomunica- ciones
+12-202532. Modificación del régimen concesional para entregar autorizaciones sectoriales.
+Modificación al Régimen Concesional con el objetivo de actualizar la norma y así poder otorgar autorizaciones flexibles.
+Ministerio de Transportes y Telecomunica- ciones
+
+12-2026
+
+
+
+
+33. Plan nacional de Data Centers.Chile es uno de los mayores receptores de inversión en data centers de América Latina, pero debido a su alto consumo energético e hídrico es una industria cuyo crecimiento podría verse afectado en los próximos años. Por lo tanto y siguiendo ejemplos internacionales como los de Noruega, Países Bajos, Dinamarca y Suecia, desde el Min Ciencia, se implementará un Plan Nacional de Data
+Centers enfocado en impulsar el crecimiento de la industria de datos, utilizando estándares existentes de tecnología que aseguren la sostenibilidad del sector en Chile.
+Permitiendo levantar acuerdos entre la industria y el Estado para acelerar el crecimiento del sector; cocrear estándares tecnológicos y de sostenibilidad con la industria, el sector público y expertos; y asegurar
+una demanda permanente para el almacenamiento y procesamiento de datos
+
+
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+
+En imple- mentación
+
+
+
+1.2.1  Desplegar y potenciar la infraestructura de conectividad que garantice un acceso de calidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOMENTAR LA INVERSIÓN
+PRIVADA, PÚBLICA Y PÚBLICO-PRIVADA EN PROYECTOS EN INFRAESTRUCTURA TECNOLÓGICA PARA HIGH PERFORMANCE COMPUTING
+(HPC) BASADA EN LAS VENTAJAS COMPARATIVAS DE CHILE.
+
+34. Atracción de infraestructura tecnológica basada en ventajas comparativas del país.
+
+
+Se levantarán necesidades y se fomentará la demanda para atraer infraestructura tecnológica de proveedores internacionales, identificando las brechas para su instalación y subsanándolas.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Economía, Fomento y Turismo
+
+
+
+12-202635. Estudio de Super computo Banco de Desarrollo de América Latina y el Caribe (CAF).Durante el 2024 se ejecutarán las etapas del estudio necesarias para establecer claramente el análisis de las capacidades existentes, la demanda de HPC para IA y su potencial impacto en la economía nacional. El estudio también incluye una hoja de ruta y propuesta técnica para una inversión en este tipo de infraestructura.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2025
+
+
+36. Actualización de trámites para inversión en infraestructura tecnológica digital, con foco en un desarrollo sostenible.La discusión internacional y la Recomendación de la UNESCO dan cuenta del potencial impacto que puede tener el entrenamiento y monitoreo de sistemas de IA en el medio ambiente, principalmente en el consumo de energía y agua. Este impacto ambiental presenta una oportunidad para Chile de atraer inversión en infraestructura tecnológica de IA aprovechando nuestra institucionalidad y que contamos con una matriz de energía limpia, contribuyendo a disminuir la huella de carbono de esta industria a nivel mundial.
+Para aprovechar esta oportunidad, se recomienda realizar un plan específico para simplificar regulatoriamente y monitorear procedimientos de obtención de permisos necesarios para la instalación de infraestructura crítica para el desarrollo de la IA (ej., data centers).
+
+Ministerio de Economía, Fomento y Turismo
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+
+
+12-2026
+
+
+
+PROMOVER EJERCICIOS PERMANENTES DE PROSPECCIÓN Y ANTICIPACIÓN DE DEMANDA DE
+INFRAESTRUCTURA DE IA Y TECNOLOGÍAS RELACIONADAS.
+37. Catastro de infraestructura tecnológica en IA.Generación de un catastro que cuantifique la necesidad y el uso de infraestructura tecnológica en IA, identificando claramente la demanda del sector público, privado y académico.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2025
+
+
+
+38. Hoja de Ruta de Infraestructura Tecnológica digital.
+
+
+En base a los resultados del catastro, trabajar en la materialización de las iniciativas asociadas a la hoja de ruta de instalación de infraestructura tecnológica, en vista a promover la seguridad pública, el desarrollo industrial y el acceso a los servicios digitalesMinisterio de Ciencia, Tecnolo- gía, Conocimien- to e Innovación
+Ministerio de Transportes y Telecomunica- ciones
+Ministerio de Economía, Fo- mento y Turismo
+
+
+
+
+12-2026
+
+
+1.3 DATOS
+1.3.1 Fomentar y consolidar una agenda de datos de interés público, que resulte tanto en certezas legales como en definiciones claras de responsabilidades al interior del Estado, y que impulse un ecosistema público- privado de generación y acceso a datos de calidad para el uso y desarrollo de IA y tecnologías afines.
+
+
+
+
+PROMOVER EJERCICIOS PERMANENTES DE PROSPECCIÓN Y ANTICIPACIÓN DE DEMANDA DE
+INFRAESTRUCTURA DE IA Y TECNOLOGÍAS RELACIONADAS.
+
+39. Implementación de Agencia de Protección de Datos.
+Una vez publicada la Ley de Tratamiento y Protección de Datos Personales, que crea la Agencia de Protección de Datos Personales, se procederá a implementar su creación mediante la designación de los miembros del Consejo Directivo y la aprobación de sus estatutos, en la forma indicada en la misma ley.
+
+Ministerio de Economía, Fomento y Turismo
+
+
+12-2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACTUALIZAR Y CONSOLIDAR UNA GOBERNANZA ADECUADA DE DATOS EN EL ESTADO QUE FOMENTE LA DISPONIBILIDAD DE DATOS Y SU CALIDAD.40. Completar implementación de la Ley de Transformación del Estado y normas técnicas asociadas.
+Se debe seguir avanzando en la implementación de la Ley de Transformación Digital del Estado, con los cambios que se requieren en cada servicio público en base a los distintos reglamentos emitidos.
+
+Ministerio de Hacienda
+
+12-2027
+41. Mecanismos de acceso a datos del Estado para investigadores.La existencia de datos que pueden ser altamente sensibles en el Estado, pero de alta relevancia para la investigación científica. Lo anterior impulsa a la creación de perfiles de acceso específicos en ciertos datos del Estado, en especial para investigadores, de modo que puedan desarrollar investigaciones clave para el desarrollo nacional.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2025
+42. Elaboración y publicación de una Estrategia de Datos Abiertos nacional
+y de una Norma Técnica de Datos Abiertos.La existencia de datos abiertos y la incorporación del principio de apertura por defecto a nivel institucional, permitirá un mejor acceso a datos relevantes para el entrenamiento, uso y desarrollo de sistemas de IA.
+La Estrategia contendrá lineamientos transversales a largo plazo, con áreas de priorización y objetivos para el desarrollo nacional, mientras que la Norma Técnica establecerá directrices y lineamientos comunes en
+aquellas materias relevantes para la publicación, calidad y disponibilidad de los datos abiertos.
+
+
+
+Ministerio de Hacienda
+
+
+
+12-202543. Publicación de la Estrategia de
+Gestión de Datos del Estado.Se publicará la Estrategia de Gestión de Datos para el sector público, que contenga los objetivos y lineamientos sobre gobierno de datos, procesamiento, gestión y calidad de datos que aseguren el uso eficaz de los datos gubernamentales para generar valor a la ciudadanía.
+Ministerio de Hacienda
+
+6-202544. Estudio de factibilidad de crear una
+Institucionalidad de Gobierno Digital.
+Se realizará un estudio de factibilidad económica para el fortalecimiento de la Institucionalidad de Gobierno Digital en el país.
+Ministerio de Hacienda
+En imple- mentación
+45. Fortalecimiento de la institucionalidad de Gobierno Digital.Se impulsará la tramitación del Proyecto de ley que crea la Secretaría de Gobierno Digital en el Ministerio de Hacienda, el cual busca traspasar la actual División de Gobierno Digital a este Ministerio, además de
+fortalecer sus competencias en materia de gobernanza y coordinación del uso estratégico de tecnologías y datos en el sector público.
+
+Ministerio de Hacienda
+
+En imple- mentación46. Difusión de estándares y norma técnica de interoperabilidad y estandarización de datos del Estado
+Se impulsarán campañas de difusión y acuerdos públicos para la adopción de estándares y la normativa técnica de interoperabilidad de datos en el Estado.
+
+Ministerio de Hacienda
+
+6-2025
+
+
+
+
+
+
+
+
+
+
+
+47. Elaboración y publicación de una Estrategia de Gobierno de Datos para IA.
+
+Se elaborará una estrategia de datos centrada exclusivamente en la gestión de datos para la inteligencia artificial dentro del sector público.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+
+12-202548. Elaboración de directrices y lineamientos para la definición y estandarización de Metadatos dentro del Estado.
+Se propondrán medidas normativas o regulatorias que contengan estándares comunes sobre utilización, uso y registro de metadatos, para su mejor aprovechamiento, disponibilidad y generación de valor en el uso y desarrollo de sistemas de IA.
+
+Ministerio de Hacienda
+
+
+12-2026
+49. Elaboración de Normativa para la Estandarización de Datos Maestros (MDM) y datos de referencia para
+los órganos de la Administración del Estado.Se elaborarán directrices y lineamientos para la gestión e implementación estandarizada de datos maestros dentro de los órganos de la Administración del Estado. Los datos maestros son todos aquellos transversales a distintas organizaciones (ej. RUN, direcciones), sin embargo, al proceder de distintas fuentes de captura no son registrados de forma unívoca. Por lo tanto, estas directrices buscan generar estándares comunes para el registro, uso y gestión de los datos maestros, aumentando su confiabilidad, reuso
+de este tipo de datos, aumentando el valor y eficiencia de los procesos de toma de decisiones, lo que permitirá un mejor uso y desarrollo de sistemas de IA.
+
+
+
+
+Ministerio de Hacienda
+
+
+
+
+12-2025
+
+
+FOMENTAR EL DESARROLLO DE INSTITUCIONALIDAD, CONFIANZA Y MECANISMOS PARA QUE LA INDUSTRIA COMPARTA Y DISPONGA DATOS A NIVEL SECTORIAL.
+
+
+
+
+
+50. Pilotos de repositorios de datos sectoriales.
+
+
+
+
+
+Desarrollo e implementación de pilotos, en áreas prioritarias, de repositorios comunes de datos que cuenten con las normativas de anonimización correspondientes.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Economía, Fomento y Turismo
+Ministerio de Desarrollo Social y Familia
+Ministerio de Salud
+
+
+
+
+
+
+12-2026
+
+PONER EN MARCHA INICIATIVAS QUE ACTÚEN COMO CATALIZADORES DEL ECOSISTEMA EN
+ÁREAS PRIORITARIAS, EN BASE A VENTAJAS COMPARATIVAS DEL PAÍS.51. Identificación de nuevas áreas para el desarrollo de iniciativas de datos público-privadas.
+Se impulsará la identificación de oportunidades de colaboración público-privada para poner a disposición y potenciar el ecosistema de datos e IA.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+06-202852. Elaboración de Inventarios de Datos del Estado.Promover la elaboración de inventarios de datos de los órganos de la Administración del Estado, y evaluar su calidad, para fomentar el reuso de datos, y haciéndolos disponibles para el uso y desarrollo de sistemas de IA.
+Ministerio de Hacienda
+12-2027
+
+
+
+
+FOMENTAR LA DISPONIBILIDAD DE DATOS CIENTÍFICOS. FOMENTAR LA DISPONIBILIDAD DE DATOS CIENTÍFICOS.53. Evaluación y mejoras a la Política de Acceso a Información Científica.
+Se evaluarán los impactos de la Política, como está establecido en ella, para proponer mejoras y modificaciones.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+En imple- mentación54. Generar incentivos para publicación en journals con acceso abierto.Se diseñarán y estudiarán instrumentos de incentivos en la Agencia Nacional de Investigación y Desarrollo, o modificarán los existentes, para apoyar la apertura de
+datos de publicaciones de chilenas y chilenos en journals de acceso abierto.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-202855. Desarrollo de herramientas que permitan el acceso y uso de datos científicos en el servicio público.
+
+Promover una agenda de uso de datos científicos para la toma de decisiones para la administración pública.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2026FOMENTAR EL CRECIMIENTO DE COMITÉS O
+COMUNIDADES DE USUARIOS DE DATOS DE INTERÉS PÚBLICO.
+56. Fomentar las comunidades en torno a datos.
+Se diagnosticarán los ecosistemas de colaboración y generarán acciones para potenciarlos, en los cuales se pueda generar confianza, estándares y acuerdos en materia de datos de interés público.
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+12-2028
+
+
+EJE 2
+DESARROLLO Y
+ ADOPCIÓN 
+
+
+
+
+
+Política Nacional de Inteligencia Artificial | MinCiencia
+
+ EJE 2 DESARROLLO Y ADOPCIÓN 
+2.1 INVESTIGACIÓN, DESARROLLO E INNOVACIÓN (I+D+I)
+2.1.1 Generar indicadores de productividad de la IA para Chile.
+
+
+
+
+
+
+
+
+GENERAR INDICADORES DE PRODUCTIVIDAD CIENTÍFICA Y TRANSFERENCIA TECNOLÓGICA DE LA IA.
+
+57. Levantar y medir periódicamente indicadores de productividad científica en IA.
+Incorporar a los datos de productividad científica publicados por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación indicadores específicos sobre IA. Para esto, se puede trabajar con el Centro Nacional
+de IA que desarrolló metodologías para hacerlo en el desarrollo del Índice Latinoamericano de IA.
+
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+
+12-202658. Levantar y medir periódicamente indicadores de productividad científica en ética de IA.
+En línea con la acción anterior, desarrollar un indicador específico que permita medir publicaciones relacionadas a la ética de la IA. Para esto, se puede trabajar con el Centro Nacional de IA.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2026
+GENERAR INDICADORES DE PRODUCTIVIDAD DE LA IA EN LA ECONOMÍA.
+
+59. Estudiar el impacto de la IA en la productividad.Se generará un proyecto con el objetivo de medir el impacto de la IA en la productividad del país y en sectores específicos.
+Este mismo estudio deberá analizar la inversión y gasto de las empresas en IA, especialmente notando si esto es importado o de desarrollo nacional.
+Ministerio de Economía, Fomento y Turismo
+
+12-2025
+
+
+2.1.2 Potenciar la I+D chilena en IA para lograr un nivel igual o superior al promedio OECD.
+
+
+
+
+
+
+
+
+FOMENTAR LA I+D EN IA, TANTO EN LA ACADEMIA COMO EN LA INDUSTRIA.
+60. Recursos de investigación para IA y áreas relacionadas.Teniendo en consideración las potenciales áreas de desarrollo y los beneficios de la IA, se hace necesaria la inyección o focalización de recursos en disciplinas
+asociadas a IA. Lo anterior proveerá una mayor generación de aplicaciones y atracción de investigadores en la academia y la industria en temas asociados a IA.
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+12-202661. Estadías de postdoctorados en programas chilenos de IA y áreas relacionadas.Tal como se requieren recursos para potenciar áreas de desarrollo en las universidades y centros de investigación, se deben diseñar las estadías para la atracción y retención de talentos, para potenciar los
+programas nacionales, asociándose a la industria por medio de acuerdos públicos-privados.
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+12-2026FOMENTAR EL FINANCIAMIENTO DE LA INVESTIGACIÓN APLICADA Y DE DESARROLLO EN ESTA MATERIA.
+62. Recursos de investigación y de desarrollo para IA y áreas relacionadas.Teniendo en consideración las potenciales áreas de desarrollo y los beneficios de la IA, se hace necesaria la inyección o focalización de recursos en disciplinas
+asociadas a IA. Lo anterior proveerá una mayor generación de aplicaciones y atracción de investigadores en la academia y la industria en temas asociados a IA.
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+12-2026
+
+
+
+
+
+
+2.1.3 Impulsar la colaboración entre la academia y el sector productivo para I+D de sistemas con IA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOMENTAR EL DESARROLLO DE PROYECTOS CONJUNTOS INDUSTRIA- UNIVERSIDAD.
+63. Ley de
+Transferencia Tecnológica
+Se impulsará un proyecto de ley que busque fomentar y regular la transferencia tecnológica.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-202464. Catastrar y visibilizar casos de éxito de colaboración
+academia-industria en IA.En una primera instancia se debe hacer un catastro de los proyectos conjuntos industria-universidad, para poder visualizarlos y mostrar sus potencialidades, en la línea de inducir a la colaboración entre los actores antes mencionados.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-202665. Revisión,
+actualización y mejora de instrumentos de fomento a
+la colaboración industria- universidad, que serán focalizados a IA.
+
+Estos instrumentos de fomento permitirán
+fortalecer y fomentar las relaciones a largo plazo entre la industria y universidad, generando proyectos con visión compartida, avances en investigación, y la adopción de esta tecnología en la industria.
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+12-202566. Fondos para proyectos conjuntos universidad- industria
+en desafíos productivos mediante el uso de IA.
+
+
+En línea con los desafíos de productividad lanzados, se desarrollará una línea específica en el uso de IA para la productividad en sectores seleccionados.
+
+Ministerio de Economía, Fomento y Turismo
+
+
+12-2025
+
+
+FOMENTAR LA INSERCIÓN DE TALENTOS EN EL SECTOR PRODUCTIVO.
+
+67. Revisión,
+actualización y mejora de
+instrumentos de inserción de capital humano avanzado.Los actores involucrados deberán revisar los instrumentos de inserción de capital humano avanzado en la industria para enfocarlos en campos asociados a la IA. En el caso de que estos no se ajusten a las áreas de relacionadas a IA, se deberá realizar una actualización o
+mejora de estos, para que se generen incentivos atractivos hacia quienes deseen realizar su carrera de investigación en el país. Asimismo, se debe considerar revisar los incentivos asociados a que los profesores universitarios puedan realizar pasantías en las empresas, sin ver perjudicada su carrera académica.
+
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+12-2025
+
+2.2 ADOPCIÓN
+2.2.1 Fomentar el desarrollo del ecosistema de I+D+i+e donde el Estado, el sector productivo y la academia colaboren en el impulso de un nuevo modelo de desarrollo aprovechando las potencialidades de la IA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANTICIPAR DESAFÍOS Y MISIONES QUE
+ORIENTEN EL TRABAJO DEL ECOSISTEMA DE I+D+I+E.68. Proceso de prospección y anticipación de IA en sectores clave para el desarrollo de Chile.
+Tal como han hecho diversos países en sus estrategias de IA, se realizará un trabajo participativo y prospectivo para identificar oportunidades de focalizaciónMinisterio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-202469. Hoja de ruta de priorización de sectores para el fomento
+en desarrollo, adopción y emprendimiento en IA.
+
+En base a los resultados del proceso de prospección, se desarrollará una hoja de ruta de focalización por sectores prioritarios.
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2025
+
+70. Instrumentos de fomento sectoriales para el desarrollo, adopción y emprendimiento en IA.
+
+
+Instrumentos de fomento al emprendimiento e innovación en los sectores priorizados.Ministerio de Economía, Fomento y Turismo
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+12-2026FOMENTAR EL DESARROLLO DE EMPRENDIMIENTOS DE BASE CIENTÍFICO-
+TECNOLÓGICA CON IA.71. Catastrar y visibilizar casos de éxito de emprendimientos en IA.Chile cuenta con un buen número de emprendimientos que están atrayendo inversión extranjera. Se visualizarán casos de éxito nacionales para motivar el emprendimiento nacional en IA.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+06-2025FOMENTAR EL DESARROLLO DE EMPRENDIMIENTOS DE BASE CIENTÍFICO-
+TECNOLÓGICA CON IA.72. Potenciar
+programas de escalamiento de startups
+Revisar instrumentos de escalamiento y focalizar instrumentos en inteligencia artificial.Ministerio de Economía, Fomento y Turismo
+
+12-2026FOMENTAR EL DESARROLLO DE EMPRENDIMIENTOS DE BASE CIENTÍFICO-
+TECNOLÓGICA CON IA.73. Desarrollo de instrumentos para el análisis de riesgosDesarrollo de metodología concreta y aplicada para sumar a su evaluación de inversiones tecnológicas posibles riesgos éticos y efectos sociales, con el objetivo de facilitar una decisión informada y tomar acciones para gestionar los posibles riesgos.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+6-2024
+
+GENERAR UNA COMUNIDAD DE EMPRENDEDORES E INNOVADORES EN IA.
+
+74. Diagnosticar la demanda de HPC por parte de los emprendedores y start ups de IA
+Esta medida busca evaluar y cuantificar la demanda actual y potencial de recursos de Computación de Alto Rendimiento (HPC) por parte de los emprendedores
+y startups especializadas en Inteligencia Artificial.
+Los resultados ayudarán a dirigir políticas de apoyo y desarrollo de infraestructuras tecnológicas que alineen con las necesidades reales del ecosistema emprendedor en IA.Ministerio de Economía, Fomento y Turismo
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+06-2025
+
+
+
+2.2.2 Fomentar e impulsar la productividad económica de la IA.
+
+
+
+
+
+
+
+
+
+
+
+PROMOVER CAPACITACIÓN A DIRECTORIOS,
+NIVELES EJECUTIVOS Y DIRIGENCIAS GREMIALES DEL SECTOR PRODUCTIVO.75. Cursos de IA y su desarrollo y uso ético para la Alta Dirección, gremios y asociaciones de la industria.En colaboración con el estado, la industria y las universidades, desarrollar cursos que permitan a los tomadores de decisiones en las empresas comprender conceptos básicos sobre los sistemas de inteligencia artificial para fomentar su adopción.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2025
+76. Mesas de trabajo tripartitas para prospectar las habilidades necesarias por la adopción de IAEn el marco de la generación de certificaciones para trabajadores con, se fomentarán instancias de encuentro entre los directivos, gremios y asociaciones, quienes pueden exponer necesidades del sector privado, y empresas o universidades que desarrollan tecnología para prospectar las capacidades y habilidades necesarias para esta industria y buscar oportunidades de implementación de soluciones de certificación y/o formación a sus necesidades específicas según la adopción de IA.Ministerio de Trabajo y
+Previsión Social
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+12-202577. Generación de herramientas gratuitas y en español sobre el uso ético de IA en la industria.
+Se generará un proyecto con el objetivo de generar herramientas en colaboración industria-universidad para el desarrollo y uso ético a lo largo de todo el ciclo de vida de los sistemas.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2026
+
+
+
+INCENTIVAR Y FOMENTAR LA ADOPCIÓN DE IA EN LA INDUSTRIA.
+78. Revisión y Actualización Ley de I+D.Se revisarán los instrumentos actuales que fomentan la adopción de tecnología en las empresas, como la Ley de I+D, para que se adecúen al desarrollo e implementación de sistemas de IA. La revisión y actualización de los instrumentos se trabajará en conjunto con los organismos competentes.
+Ministerio de Economía, Fomento y Turismo
+
+12-202579. Instrumentos de adopción adaptativa de
+tecnologías para MiPymes.Dada las dificultades que pueden existir para la implementación y uso de IA en micro, pequeñas y medianas empresas, se diseñarán instrumentos que reconozcan su realidad y permitan la adopción paulatina de la tecnología, otorgando mayor flexibilidad en el proceso.
+Ministerio de Economía, Fomento y Turismo
+
+12-2025
+VISIBILIZAR EL USO DE IA EN LA INDUSTRIA.
+80. Mapear e informar el uso de IA en la industria
+Mapear y visibilizar los desarrollos o adopciones de sistemas de IA que destaquen por su uso ético y responsable.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2026
+
+2.2.3 Acelerar la modernización del Estado mediante IA.
+
+
+
+
+
+ABORDAR DESAFÍOS DE INNOVACIÓN EN EL ESTADO.
+81. Desafíos Públicos en oportunidades para el uso de IA
+Se focalizarán desafíos públicos específicos de problemas que puedan ser resueltos eficientemente a través del uso ético de IA.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2026
+PROMOVER LA CAPACITACIÓN E INCENTIVOS PARA IMPULSAR LA IA EN EL ESTADO.82. Capacitaciones de IA y su desarrollo y uso ético para la Alta Dirección Pública
+y diferentes niveles de funcionarios publicos.
+En colaboración con los diferentes Servicios Públicos promover cursos y capacitaciones que permitan a los tomadores de decisiones en el servicio público y a funcionarios en generar entender conceptos básicos sobre los sistemas de inteligencia artificial para fomentar su adopción en el Estado.
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2026
+
+
+
+
+FOMENTAR LA MODERNIZACIÓN DE LOS PROCESOS DE COMPRAS PÚBLICAS DE SISTEMAS DE IA.
+
+83. Modernización de Ley de Compras Públicas
+
+Modernización de Ley N° 19.886 y otras leyes, para mejorar la calidad del gasto público, aumentar los estándares de probidad y transparencia e introducir principios de economía circular en las compras del Estado.Ministerio de Hacienda
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+En imple- mentación
+84. Pilotear la incorporación de criterios para el uso ético de IA en los procesos de compras públicas.Probar criterios de uso ético de IA para pilotearlos al incorporarlos en los procesos de compras públicas, y así estudiar cómo se desenvuelven los proveedores frente
+a estos. Esto para desarrollar normativas y estándares, acordes a los principios éticos y de protección de derechos de esta política, en procesos de compras públicas"Ministerio de Hacienda
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+En imple- mentación
+
+
+
+
+
+
+
+
+
+
+
+PONER EN VALOR LOS CASOS DE ÉXITO EN LA ADOPCIÓN Y USO DE IA EN EL ESTADO.
+
+85. Difusión de casos de éxito de adopción y usos de IA.
+Facilitar la difusión y coordinación estratégica en el desarrollo e implementación de sistemas de IA en el Estado, permitiendo a los organismos públicos colaborar con centros de investigación que concentran porcentajes mayoritarios de la producción de IA en el país, bajo estándares éticos y responsables.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+En imple- mentación
+
+86. Fortalecer el marco de colaboración interinstitucional para el desarrollo de sistemas de
+IA en sector público, a través de alianzas público- académicas.Realizar acciones que faciliten la coordinación estratégica en el desarrollo e implementación de sistemas de IA en el Estado, permitiendo a los organismos públicos colaborar con centros de investigación que concentran porcentajes mayoritarios de la producción de IA en el país, bajo estándares éticos y responsables.
+En esta línea, se apoyará la implementación de este marco de colaboración a través del sector público, y se generarán nuevas alianzas público-académicas que permitan el desarrollo, pilotaje y uso seguro de los sistemas de
+IA dentro del Estado que complementen los actuales avances.
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+
+
+
+12-2025
+
+87. Registro de algoritmos públicos.
+
+Registro abierto de algoritmos de uso público, que permita su reutilización dentro de la Administración del Estado, replicando casos de éxito.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+
+12-2026
+
+
+EJE 3
+GOBERNANZA
+ Y ÉTICA 
+
+
+
+
+
+Política Nacional de Inteligencia Artificial | MinCiencia
+
+ EJE 3 GOBERNANZA Y ÉTICA 
+3.1 REGULACIÓN E INSTITUCIONALIDAD
+3.1.1 Impulsar la construcción de un marco regulatorio integral sobre los sistemas de IA que permitan su investigación, desarrollo y uso responsable, respetando los derechos fundamentales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMPULSAR LA ACTUALIZACIÓN DE LAS LEYES
+COMPLEMENTARIAS A LA IA, ARMONIZANDO CON LOS ESTÁNDARES Y BUENAS PRÁCTICAS INTERNACIONALES88. Ley de Tratamiento y Protección de Datos Personales.Completar la tramitación de la Ley de Tratamiento de Datos Personales, de forma de cumplir con los compromisos internacionales adquiridos y tener una legislación actualizada.
+Ministerio de Hacienda
+6-202489. Ley Marco de Ciberseguridad e infraestructura Crítica de la Información.Completar la tramitación de la Ley Marco de Ciberseguridad e Infraestructura Crítica Digital y comenzar su implementación, de forma de tener una legislación e institucionalidad actualizada, tal como la Agencia Nacional de Ciberseguridad (ANCI)
+Ministerio de Interior y
+Seguridad Pública
+En imple- mentación
+90. Proponer medidas legales y/o administrativas que correspondan en materia de gobernanza de datos.Se realizarán Mesas de Técnicas de Gobernanza de datos, en conjunto con la academia y sociedad civil para proponer medidas legales y/o administrativas que otorguen un marco común a la gobernanza de datos en
+el país, lo que permitirá avanzar en el desarrollo seguro de IA al establecer estándares comunes de gestión de datos, su gobernanza e intercambio para el país, entre sector privado, sector público, órganos autónomos, academia, sociedad civil y eventualmente otros países.
+
+
+Ministerio de Hacienda
+
+
+
+12-2025
+
+
+91. Nueva
+Institucionalidad para la Gobernanza de la IAEn base a la institucionalidad vigente, se desarrollará una propuesta de institucionalidad que cuente con mecanismos de consulta y deliberación para incorporar las visiones de múltiples partes interesadas.
+La propuesta debe incluir las asignaciones presupuestarias y modificaciones normativas que permitan contar con una institucionalidad robusta para el monitoreo, evaluación
+y seguimiento de la Política de IA, su Plan de Acción y cualquier iniciativa relacionada a IA que se desarrolle en el sector público.
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+06-2025IMPLEMENTAR REQUISITOS ÉTICOS Y DE TRANSPARENCIA EN EL SISTEMA DE COMPRAS PÚBLICAS.
+92. Ley de Compras Públicas.
+
+Acelerar su publicación y entrada en vigor.
+Ministerio de Hacienda
+En imple- mentaciónDESARROLLAR Y ACORDAR LOS
+REQUISITOS MÍNIMOS, COMO POR EJEMPLO LA TRANSPARENCIA, RENDICIÓN
+DE CUENTAS, PROTECCIÓN DE DATOS PERSONALES, ENTRE OTROS,
+PARA CAUTELAR EL DESARROLLO Y USO RESPONSABLE DE LA IA.
+93. Promoción de diálogo con múltiples partes interesadas con enfoque legislativo
+
+Generar espacios de formación para asesores del ejecutivo y el parlamento en materias de IA, para apoyar la labor de parlamentarios y autoridades del gobierno central en la discusión legislativa.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+En imple- mentación
+94. Guías de buenas prácticas.Se desarrollarán guías de buenas prácticas en el uso de datos de IA, específicas para sectores de la industria, a partir de pilotos, la experiencia académica y la experiencia comparada.
+Ministerio de Hacienda
+12-2028
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+95. Sandboxes regulatorios en logística, salud, seguridad y fintech
+
+
+Se seguirá avanzando en el desarrollo de espacios de experimentación regulatoria , para implementar y pilotar sandboxes iniciales en sectores como logística, salud, seguridad y fintech. Una iniciativa de este tipo, apunta a fomentar la innovación y proteger a la ciudadanía.Ministerio de Economía, Fomento y Turismo
+Ministerio del Interior y Seguridad Pública
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+
+
+
+12-2025
+
+96. Evaluación y ampliación sandboxes regulatorios
+
+En base a los resultados de los primeros sandboxes, se evaluará su impacto para proponer mejoras y eventuales ampliaciones a otros sectores.Ministerio de Economía, Fomento y Turismo
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+
+12-2026
+
+
+
+
+
+
+
+
+
+
+
+FOMENTAR LA PARTICIPACIÓN CIUDADANA EN LA FORMULACIÓN DE POLÍTICAS Y REGULACIONES
+RELACIONADAS CON EL USO ÉTICO DE LA IA.97. Promover el desarrollo de mecanismos de participación para el desarrollo y actualización de la Política Nacional de IAFomentar la creación de mecanismos y foros de diálogo que involucren a múltiples actores, incluyendo académicos, industria, sociedad civil y gobierno, para la continua revisión y mejora de la Política Nacional
+de Inteligencia Artificial. Estos mecanismos buscarán garantizar la adaptabilidad y relevancia de la política frente a los avances tecnológicos y desafíos emergentes
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+Finalizado98. Actualización Política Nacional de Inteligencia Artificial y plan de acción asociado a través de procesos participativos.
+
+Actualización de la Política Nacional de IA, manteniendo el horizonte de 10 años de la política, pero actualizando por el nuevo texto propuesto.
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+Finalizado
+99. Evaluación Intermedia Plan de Acción y PolíticaSe hará una evaluación de los avances del Plan de Acción y la Política con el fin de proponer modificaciones pertinentes a cambios tecnológicos, sociales o institucionales.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2026
+100.Panel de
+CumplimientoSe habilitará un panel que permita hacer seguimiento de los avances de la Política y el Plan de Acción. Este se actualizará mensualmente y deberá mostrar el nivel de cumplimiento y las modificaciones que se realicen.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2024101. Elaboración de metodología que permita monitorear la confianza en aplicaciones de IA del sector públicoEn el marco del proyecto Algoritmos Éticos de la UAI, y con financiamiento de ANID, Se elaborará una metodología cualitativa que permita medir si la implementación de estándares éticos en algoritmos contribuye a la confianza en aplicaciones de IA implementadas en servicios públicos.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2025
+
+
+
+3.1.2 Desarrollar herramientas para el uso ético de inteligencia artificial en el Estado.
+
+
+
+
+
+
+
+
+
+
+
+ESTABLECER LINEAMIENTOS, RECOMENDACIONES Y MARCOS DE
+COLABORACIÓN PARA EL USO ÉTICO DE SISTEMAS DE IA EN EL SECTOR PÚBLICO.
+
+
+102. Circular para el uso ético de IA en el sector público.Elaboración de un instructivo en conjunto con la Secretaría de Gobierno Digital que establezca principios generales y mecanismos para adaptar a la especificidad de cada servicio. Estos lineamientos constituirán un primer paso para arribar a un marco común, pues entregan pautas y recomendaciones generales para promover
+el uso responsable, ético, seguro y transparente de herramientas basadas en sistemas de IA en el sector público.
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+
+
+Finalizado
+
+
+
+103. Evaluación e implementación de la Circular ministerialSe recabará información acerca la implementación de sistemas de IA en el sector público, por medio de una encuesta de uso de sistemas de IA que permita levantar información detallada y capturar su uso actual. Esto permitirá una mejor identificación de los desafíos y brechas que enfrentan los órganos de la Administración del Estado y, de ser necesario, determinar qué instrumentos son más eficientes y efectivos para actualizar y mejorar los lineamientos propuestos en la Circular y/o puedan ser incorporados en proyectos regulatorios o normativa técnica sobre IA para el sector público, según el riesgo de los sistemas de IA, los tipos de IA existentes, sus usos, para los distintos sectores del Estado, entre otros.
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+
+
+
+En imple- mentación
+
+
+
+
+
+
+
+
+
+
+
+ESTABLECER ESTÁNDARES Y RECOMENDACIONES DE TRANSPARENCIA, RENDICIÓN
+DE CUENTAS Y PROTECCIÓN DE DATOS PERSONALES.104. Definición estándares y recomendaciones para aplicaciones de IA en base a sistema de riesgos
+Elaborar lineamientos y estándares para los sistemas de IA basados en el modelo de riesgos, y en línea con la regulación vigente en Chile sobre la materia.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2027
+105. Proceso para recoger mejores prácticas internacionales para promover transparencia y evitar sesgos.
+En base a las iniciativas ya existentes, se sintetizará la experiencia para elaborar un documento que contenga mejores prácticas para promover transparencia, evitar sesgos en sistemas de IA y defina sectores y aplicaciones críticas. Estas deberán estar adaptadas al ecosistema chileno.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Relaciones Exteriores
+
+
+12-2025
+106.Estándares para aplicaciones críticas.En base a los resultados de las acciones anteriores, se elaborarán estándares que deberán implementarse
+a través del sistema de compras públicas y, de ser pertinente, con modificaciones legales.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2026
+
+107. Pilotos de experimentación regulatoria y desarrollo de buenas prácticas de protección de datos.
+
+Desarrollar pilotos para el desarrollo de instrumentos de evaluación de impacto en privacidad y recomendaciones para promover análisis con privacidad diferenciada.
+Además, promover el desarrollo de sistemas de inteligencia artificial que utilicen los datos en forma distribuida y/o encriptada a través de fomento a la investigación, compras públicas, entre otros.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Economía, Fomento y Turismo
+Ministerio de Hacienda
+
+
+
+
+12-2026
+
+
+
+
+
+108.Normativa para Transparencia Algorímica.Se impulsarán iniciativas en los servicios públicos sobre transparencia algorítmica con distintas instituciones, entre ellas el Consejo para la Transparencia.Ministerio de Hacienda
+12-2027
+109. Guía básica de introducción a la Anonimización.Se elaborará una guía básica de introducción a la anonimización que apoye y oriente a las instituciones a comprender y adoptar procesos de anonimización de datos de carácter personal o sensible.Ministerio de Salud
+Ministerio de Hacienda
+
+12-2025110. Norma técnica de anonimización
+para la publicación bases de datos para el Ministerio de Salud.
+Normativa de Anonimización de bases de datos para el Ministerio de Salud que brinde herramientas conceptuales y metodológicas para la aplicación de anonimización en la divulgación de datos abiertos.Ministerio de Salud
+Ministerio de Hacienda
+
+12-2025
+111. Centro de IA para el desarrollo de casos de uso y experimentación regulatoria.La Secretaría de Gobierno Digital se encuentra avanzará en la creación de un Centro de Exelencia de IA para el desarrollo de casos de uso, en entornos de sandbox o de ""experimentación regulatoria. Este centro permitirá la implementación de pilotos de experiementación dentro
+de la Administración del Estado, aumentando su adopción por medio de estándares comunes y desarrollando pilotos escalables.
+
+
+Ministerio de Hacienda
+
+
+12-2026
+
+
+
+3.2 ARTICULACIÓN INTERNACIONAL
+3.2.1 Promover y articular la discusión y cooperación sobre gobernanza de la IA a nivel regional e internacional.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMPULSAR LA COLABORACIÓN ENTRE PAÍSES DE AMÉRICA LATINA Y EL CARIBE PARA LA GOBERNANZA DE LA IA DESDE UNA PERSPECTIVA ÉTICA CONSIDERANDO
+LAS REALIDADES Y NECESIDADES LOCALES.
+112. Definir e
+implementar una estrategia de politica internacional de Chile sobre IA
+
+Definir e implementar la visión política de Chile sobre cuestiones tecnológicas, especialmente la IA, conectando los objetivos nacionales en IA con los principios e intereses de la política exterior de Chile.Ministerio de Relaciones Exteriores
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+
+12-2024
+113. Liderar la
+articulación y colaboración de grupos de trabajo en materia de IA en la región.
+
+En base a lo acordado en la Declaración de Santiago, Chile liderará el grupo de trabajo para implementar los acuerdos entre los países.Ministerio de Relaciones Exteriores
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+En imple- mentación
+114. Fortalecer espacios para compartir experiencias
+de desarrollo y desafios en torno al despliegue de IA
+Proyecto colaborativo a nivel regional de plataforma con datos y casos de uso que se actualice permanentemente y entregue a los países mejores herramientas para el desarrollo de políticas y marcos regulatorios de IA, aprovechando las sinergias con instancias regionales existentes.Ministerio de Relaciones Exteriores
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2026115. Colaborar con generación
+de índices, observatorios y estándares de IA en la región, tal como el IA Índex.
+Proyecto colaborativo a nivel regional sobre monitoreo y medición de indicadores clave para el segumiento de la IA, ofreciendo a los países de la región mejores herramientas para el desarrollo de políticas y marcos regulatotorios de IA.Ministerio de Relaciones Exteriores
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+
+12-2026
+116. Agenda
+internacional de IA hacia la región de América Latina y el Caribe
+Documento orientado a coordinar la particpación de Chile en los diferentes foros y procesos regionales sobre IA (Reunión MInisterial sobre la Ética de la IA, Agenda Digital eLAC, Alianza Digital ALC-UE, entre otros), propiciando un trabajo que refleje las necesidades e intereses de América Latina y el Caribe.Ministerio de Relaciones Exteriores
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
+
+12-2024
+
+
+
+
+IMPULSAR ALIANZAS ESTRATÉGICAS CON PAÍSES LÍDERES EN IA PARA FACILITAR EL INTERCAMBIO DE CONOCIMIENTOS, EXPERIENCIAS Y COLABORACIÓN EN EL DESARROLLO Y GOBERNANZA DE IA.
+
+117. Impulsar
+cooperaciones bilaterales con países líderes en IA para fortalecer
+nuestro ecosistema cientifico y tecnologico en IA.Definir los intereses de Chile en el ámbito de la cooperación en IA, estableciendo prioridades, enfoques, y modalidades de cooperación (asistencia desde o hacia Chile, intercambio de información y experiencias, implementación de mecanismos de diálogo político en IA, entre otras) orientadas a la creación de capacidad y fortalecimiento del ecosistema cientifico y tecnologico
+nacional en IA. En esta linea, se va a fomentar la creación de acuerdos de colaboración bilaterales con naciones avanzadas en el campo de la IA. Con el objetivo de reforzar las capacidades locales de investigación y desarrollo en IA, aumentando así la competitividad y la eficiencia de nuestro ecosistema científico y tecnológico.
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Relaciones Exteriores
+
+
+
+
+En imple- mentación
+118. Intercambio de experiencias con otros países y actores relevantes sobre marcos regulatorios de IAEstablecer colaboraciones estratégicas con países y organizaciones intergubernamentales (Consejo de Europa, Unión Europea, UNESCO, entre otros) pioneros en la regulación de la IA para aprender de sus experiencias
+y adoptar mejores prácticas. Estas alianzas permitirán desarrollar un marco regulatorio robusto, flexible y adaptativo que propicie la innovación y garantice un uso ético y responsable de la IA en nuestro entorno.Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+Ministerio de Relaciones Exteriores
+
+
+En imple- mentación
+
+
+
+
+
+3.2.2 Colaborar e incidir activamente en la discusión de gobernanza y estándares a nivel internacional.
+
+
+
+
+
+
+PROMOVER LA PARTICIPACIÓN DE CHILE EN FOROS DE DISCUSIÓN INTERNACIONAL RELATIVOS A LA IA.119. Catastro de foros y procesos multilaterales
+y de múltiples partes interesadas, relacionados con la gobernanza de la IA para promover la participación de Chile
+
+
+Identificación de los distintos procesos y foros internacionales sobre gobernanza de la IA, particularmente en el ámbito de las Naciones Unidas, como también en iniciativas de múltiples partes interesadas, con el fin de propiciar la participación activa de Chile en ellos.Ministerio de Relaciones Exteriores
+Ministerio de Hacienda
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+En imple- mentación
+
+
+PROMOVER LA PARTICIPACIÓN DE CHILE EN
+LA DISCUSIÓN INTERNACIONAL RELATIVA A CERTIFICACIONES Y ESTÁNDARES DE IA.120. Catastro de las instancias multilaterales
+relacionadas con la definición de
+estándares técnicos globales sobre IA para promover
+la incidencia y participación de nuestro país en la definición de estándares globales.
+
+
+
+Identificación de las instancias internacionales sobre debate y definición de estándares técnicos sobre IA, con el fin de propiciar la participación de los organismos técnicos nacionales en éstos.
+
+Ministerio de Relaciones Exteriores
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+
+En imple- mentación
+
+3.3 MEDIO AMBIENTE Y CRISIS CLIMÁTICA
+3.3.1 Fomentar el uso de IA para combatir la crisis climática.
+
+
+
+
+IMPULSAR EL USO DE HERRAMIENTAS DE IA Y ALGORITMOS
+PARA EL MONITOREO OPORTUNO, EFICAZ Y EFICIENTE DEL
+MEDIOAMBIENTE Y QUE PUEDA CONTRIBUIR
+A DISMINUIR EL IMPACTO AMBIENTAL DEL ESTADO Y LAS ACTIVIDADES SOBRE EL TERRITORIO.121. Fondos de investigación para uso eficiente de IA y uso de IA para
+consumo eficiente de energía
+Se financiarán investigaciones que estudien la eficiencia en el consumo de energía a través del ciclo de vida de la IA y, a su vez, cómo se puede usar IA para el consumo eficiente de energía.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2025122. Consideraciones de desarrollo sostenible y territorial en instrumentos de fomento.
+
+Se incorporarán consideraciones de desarrollo sostenible y territorial a instrumentos de fomento relacionados a IA.
+Ministerio de Economía, Fomento y Turismo
+
+12-2025IMPULSAR EL USO DE HERRAMIENTAS DE IA PARA UN MONITOREO OPORTUNO, EFICAZ
+Y EFICIENTE DEL MEDIO AMBIENTE QUE CONTRIBUYAN A DISMINUIR EL IMPACTO AMBIENTAL DEL ESTADO Y LA INDUSTRIA.
+
+
+
+123. Estándares de datos ambientales.
+
+Impulsaremos estándares, interoperabilidad y acceso a datos críticos sobre nuestro medio ambiente, apuntando a hacer más eficiente y productivo el monitoreo de cumplimiento de normativa ambiental, pero también para comenzar a generar análisis predictivos con herramientas de inteligencia artificial que permitan prevenir catástrofes.
+
+
+
+Ministerio de Medio Ambiente
+
+
+
+12-2025FOMENTAR LA INVESTIGACIÓN Y EL DESARROLLO DE
+SISTEMAS DE IA PARA LA SOSTENIBILIDAD AMBIENTAL Y RESPETUOSOS CON EL MEDIOAMBIENTE.
+124. Difundir usos de investigación y TT en ámbitos
+medioambientales y crisis climática.Generaremos fondos de investigación sobre el impacto ambiental de grandes modelos de IA, de modelos de
+IA mal optimizados y potenciales vías de mitigación y remediación.
+Se aprovecharán los Laboratorios Naturales Chilenos junto con la necesidad de protegerlos para preservar sus características y oportunidades.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Medio Ambiente
+
+
+En imple- mentación
+
+3.3.2 Fomentar el uso de energías renovables no convencionales en el desarrollo de la infraestructura para IA.
+
+
+
+IMPULSAR MECANISMOS DE DISCUSIÓN Y ANÁLISIS QUE PERMITAN ENTENDER Y PREVENIR EL IMPACTO MEDIOAMBIENTAL DE LA IA EN CHILE.
+125. Abordar el impacto medioambiental de la IA en las mesas de trabajo sobre su infraestructuraEn el contexto de las mesas de trabajo y estudios desarollados para abordar la infraestructura necesaria para IA, se fomentará la discusión sobre el impacto ambiental de la IA en Chile a la luz de los grandes modelos de lenguaje y el uso ineficiente de recursos de cómputo asociados a las distintas etapas del ciclo de vida de la IA. Esto se alinea, además, con las recomendaciones de la Unesco.
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2024PROMOVER LA UTILIZACIÓN DE ENERGÍAS RENOVABLES Y DE BAJO CONSUMO DE RECURSOS EN
+LOS PROYECTOS DE INFRAESTRUCTURA HABILITANTE PARA LA IA.
+
+126. Promover la instalación de infraestructura para IA utilizando
+energías renovablesIncentivar la creación y expansión de infraestructuras de inteligencia artificial que operen con energías renovables. Esta iniciativa busca minimizar la huella de carbono asociada a las tecnologías de IA, fomentando el uso de fuentes de energía sostenibles como la solar, eólica o hidroeléctrica. El objetivo es desarrollar un ecosistema de IA ecológicamente responsable, que contribuya tanto a la innovación tecnológica como a la protección del medio ambiente.
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Energía
+
+
+
+12-2025
+
+3.4 IGUALDAD DE GÉNERO
+3.4.1 Fomentar la participación de mujeres en áreas de investigación y desarrollo relacionadas a la IA para alcanzar un nivel igual o mayor a al promedio OCDE.
+
+
+
+
+
+FOMENTAR LA EQUIDAD Y NO DISCRIMINACIÓN DENTRO DE LAS BUENAS PRÁCTICAS EN EL DESARROLLO DE SISTEMAS DE IA.
+
+127. Visualización de mujeres líderes en tecnología.
+
+Generar campañas comunicacionales que visibilicen la participación y liderazgo de mujeres en IA y motiven a incrementarla.Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROMOVER ACTIVAMENTE EL ACCESO, LA
+PARTICIPACIÓN Y EL DESARROLLO IGUALITARIO DE LAS
+MUJERES EN LAS ÁREAS RELACIONADAS A IA.
+
+128. Promoción de comunidad mujeres en IA
+
+Promover la generación de redes y plataformas de articulación de mujeres en inteligencia artificial y tecnologías.Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+En imple- mentación
+
+
+
+
+129. Acciones de promoción.
+
+Se estudiarán e implementarán acciones que promuevan e incentiven la participación y liderazgo de mujeres en el ecosistema de IA. Estas pueden incluir: fondos concursables de disciplinas que desarrollen temáticas asociadas a la IA con foco de género, puntaje adicional para equipos con mayor equidad de género en concursos de investigación, desarrollo y emprendimiento, entre otras.Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Economía, Fomento y Turismo
+
+
+
+
+12-2025
+
+
+130. Acciones de focalziación que aborden la desigualdad de género
+
+
+Se estudiarán e implementarán acciones de focalización para abordar la desigualdad de género, es decir, acciones que restauren el equilibrio en espacios que las mujeres estan subrepresentadas, que pueden incluir cuotas de género en los distintos cargos/equipos de la organización y acciones de focalización..Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Trabajo y
+Previsión Social
+
+
+
+
+12-2027131. Integración de IA en programas que fomenten participación en temprana edad.
+Considerar áreas relacionadas a la IA con una perspectiva de género en los Programas que fomenten la participación de niñas desde temprana edad.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2026132. Aumento al 40% de la matrícula femenina en educación superior en áreas STEM-Ciencia, Tecnología, Ingeniería y Matemáticas- En todas las IES que las imparten.
+
+
+Aumento al 40% de la matrícula femenina en carreras de áreas de STEM- Ciencia, Teconología, Ingenería y Matemáticas-en todas las IES que las imparten.N° de mujeres que se incorporan en áreas masculinizadas en instituciones de educación superior
+
+Ministerio de Educación
+Ministerio de la Mujer y la Equidad de Género
+
+
+
+12-2029
+
+
+
+
+
+
+
+
+
+
+133. Aumento de la participación laboral de las mujeres en IA, en condiciones de trabajo decente.
+
+Desarrollar iniciativas que fomenten la inclusión y el aumento de la participación laboral de mujeres en el sector de la inteligencia artificial, asegurando condiciones de trabajo decente. Esto incluye promover políticas de igualdad de oportunidades, capacitaciones especializadas, y entornos laborales que respalden la diversidad y la inclusión.Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Trabajo y
+Previsión Social
+
+
+
+
+12-2027
+
+
+134. Alcanzar el 40% de participación de mujeres en emprendimientos de alto potencial en IA
+
+
+
+Establecer metas claras para incrementar la representación femenina en emprendimientos de IA, con el objetivo de alcanzar al menos un 40% de participación de mujeres.Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Trabajo y
+Previsión Social
+
+
+
+
+12-2029
+
+
+135. Disminuir la brecha de empleo pleno
+y productivo entre mujeres y hombres en áreas de IA
+
+
+
+Implementar estrategias efectivas para cerrar la brecha de empleo entre mujeres y hombres en el sector de la inteligencia artificial.Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Trabajo y
+Previsión Social
+
+
+
+
+12-2027GENERAR INDICADORES PARA ESTABLECER LÍNEAS DE BASE Y MONITOREAR LA INCLUSIÓN DE MUJERES Y OTROS GRUPOS SOCIALES
+EN LAS ÁREAS RELACIONADAS A IA EN LA INDUSTRIA.
+
+
+136. Sistema de monitoreo y análisis de indicadores de género de IA.
+
+Fortaleceremos el sistema de monitoreo y análisis de estadísticas de género que contribuirá al control de indicadores relevantes para mantener una tasa de
+participación equitativa en las áreas relacionadas con la IA.
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+12-2028
+
+3.4.2 Fomentar la participación de mujeres en áreas de IA en la industria, y velar porque el impacto de la automatización no perjudique por género, avanzando hacia una participación equitativa en el empleo.
+
+
+
+
+
+
+
+
+
+
+
+INCORPORAR VARIABLES DE GÉNERO Y OTROS GRUPOS SOCIALES EN LOS EJERCICIOS DE PROSPECCIÓN DEL MERCADO LABORAL, FOCALIZANDO POLÍTICAS DE CAPACITACIÓN Y ACTUALIZACIÓN A MUJERES Y OTROS GRUPOS SOCIALES PARA MITIGAR EL IMPACTO DE LA AUTOMATIZACIÓN
+EN ÁMBITOS DONDE SON MAYORMENTE PERJUDICADAS.
+
+
+137. Acceso de mujeres a participar en actividades de investigación, innovación y emprendimiento.
+
+
+
+Desarrollar programas específicos que faciliten y promuevan el acceso de mujeres a roles de liderazgo y participación en actividades de investigación, innovación y emprendimiento en el campo de la inteligencia artificial.Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Trabajo y
+Previsión Social
+
+
+
+
+12-2025
+
+
+
+
+138. Prospección focalizada en el impacto de la IA por géneroProfundizando los impactos de la automatización abordados en el apartado de impactos en el trabajo, existen sectores, como la manufactura, que usualmente son intensivos en trabajo laboral femenino. La creación de variables e indicadores que determinen riesgo diferenciando por género debe permitir alertar y reaccionar a tiempo para acompañar la transición y prospectar trayectorias laborales.
+En esta línea, diseñaremos e implementaremos las políticas de capacitación y actualización teniendo en especial consideración la variable de género. Al segmentar el riesgo por género, diseñaremos medidas con mayor focalización y eficacia al momento de mitigar el impacto de la automatización en el bienestar.
+
+
+
+
+Ministerio del Trabajo y
+Previsión Social
+
+
+
+
+
+12-2025
+139. Promoción de la paridad en reclutamiento y selección en industria IAIncorporar variables de género en la construcción del sistema de Reconversión Laboral Inteligente que puedan contribuir a mitigar un potencial impacto mayor en áreas de alta presencia femenina.
+Acciones afirmativas al incluir criterios de paridad al momento de reclutar y seleccionar al personal.Ministerio de la Mujer y la Equidad de Género
+Ministerio del Trabajo y
+Previsión Social
+
+12-2028
+
+3.5 INCLUSIÓN Y NO DISCRIMINACIÓN
+3.5.1 Fomentar la equidad y no discriminación en la implementación de sistemas de IA.
+
+
+
+
+
+
+
+
+FOMENTAR LA INCLUSIÓN Y NO DISCRIMINACIÓN DENTRO DE LAS BUENAS PRÁCTICAS EN EL DESARROLLO DE SISTEMAS DE IA.140. Visibilización y fomento de
+desarrollos de IA no discriminatorios y que apunten a disminuir brechas sociales
+
+Generar campañas comunicacionales que visibilicen el desarrollo de modelos y tecnologías basadas en IA que apunten a disminuir las brechas sociales
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+En imple- mentación
+
+141. Difusión sobre sesgos de género de los sistemas de IA
+
+Difusión en redes y charlas sobre cómo se reproducen los sesgos de género a distintos niveles (educación básica y media, educación superior, empresas, sector público) de los algoritmos de IA dentro de los procesos de selección de personas y toma de decisiones.Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+En imple- mentación
+
+
+
+
+
+
+
+
+
+
+
+PROMOVER EL USO DE HERRAMIENTAS DE EVALUACIÓN DE SESGOS Y NO DISCRIMINACIÓN DURANTE TODO EL
+CICLO O DE VIDA DE LOS SISTEMAS DE IA.
+
+
+142. Criterios de género y equidad en adquisición de sistemas de IA
+
+En los procesos de compras públicas que involucren la adquisición de sistemas de inteligencia artificial como productos o servicios se requerirán mecanismos de revisión de decisiones, velando porque éstas cumplan con criterios de género y equidad. Además, se fomentarán estas prácticas en el sector privado.Ministerio de la Mujer y la Equidad de Género
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Hacienda
+
+
+
+
+12-2027
+143. Fichas y
+herramientas de transparencia de los modelos algorítmicos 1En el marco del proyecto Algoritmos Éticos de la UAI, y con financiamiento de ANID, se desarrollará una herramienta para proveer información estandarizada
+que ayude a explicar el diseño, funcionamiento y uso de modelos algorítmicos. Estos recursos ayudarán a usuarios, funcionarios públicos y desarrolladores a fortalecer la transparencia y la confianza en las aplicaciones de IA.
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+6-2024
+144. Herramientas para la medición de sesgos y equidad de los modelosEn el marco del proyecto Algoritmos Éticos de la UAI, y con financiamiento de ANID, se elaborará una herramienta para identificar sesgos en el desempeño de modelos de
+IA durante su etapa de evaluación, para resguardar que las aplicaciones tecnológicas promuevan la equidad y no perpetúen desigualdades.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+6-2024
+
+145. Evaluación de impacto algorítmicaEn el marco del proyecto Algoritmos Éticos de la UAI, y con financiamiento de ANID, se diseñará una herramienta para realizar una evaluación estructurada de los riesgos éticos de un proyecto en todo su ciclo de vida, que se realiza ex-ante, para identificar los posibles impactos e identificar mecanismos que permitan mitigar los riesgos del proyecto y proteger los derechos de las personas.
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+6-2024
+
+1 En el marco del proyecto "Algoritmos Éticos, Responsables y Transparentes", liderado por la Universidad Adolfo Ibáñez (UAI) y financiado por la Agencia Nacional de Investigación y Desarrollo (ANID) a través del concurso IDeA I+D 2023 (proyecto ID23I10357), se desarrollarán una serie de herramientas y metodologías para apoyar la implementación de una IA ética y responsable. Estas se probarán en alianza con los organismos públicos socios del proyecto: ChileCompra, la Secretaría de Gobierno Digital del Ministerio de Hacienda, el Consejo para la Transparencia, el Instituto de Previsión Social (IPS), el Servicio Civil y la Superintendencia de Seguridad Social (SUSESO).
+
+
+
+
+3.5.2 Promover el acceso y la participación de diversos grupos sociales en áreas de investigación y desarrollo en IA
+
+
+
+
+
+PROMOVER LA PARTICIPACIÓN Y EL DESARROLLO IGUALITARIO DE
+DIFERENTES GRUPOS SUBREPRESENTADOS EN IA.
+
+146. Disminución de la brecha digital
+etaria de género y en comunidades rurales
+
+Incorporación de consideraciones asociadas a la brecha digital basada en factores etarios, de género y aislamiento territorial o ruralidad como factor determinante para las futuras y presentes iniciativas y proyectos de la SUBTEL.Ministerio de Transportes y Telecomunica- ciones
+Ministerio de la Mujer y la Equidad de Género
+
+
+12-2026
+
+3.6 IMPACTOS EN EL TRABAJO
+3.6.1 Prospectar impactos de la IA en el ámbito laboral y anticipar estrategias para la disminución de brechas.
+
+
+
+
+
+
+PROSPECTAR Y ANTICIPAR CAMBIOS EN EL MERCADO LABORAL PARA DISMINUCIÓN DE BRECHAS EN SECTORES ESPECÍFICOS Y ANTICIPAR LA NECESIDAD DE RECONVERSIÓN Y CAPACITACIÓN
+
+147. Estrategia Nacional de Prospección Laboral.La Comisión Asesora Ministerial de Prospección Laboral elaborará una estrategia, que consolide un sistema de monitoreo y anticipación de los desajustes de oferta
+y demanda de ocupaciones a nivel regional, de sector industrial, grupos etarios y género. Este monitoreo podrá desarrollar hojas de rutas y proyectos para apoyar a trabajadoras y trabajadores en mitigar el impacto de las tecnologías emergentes.
+
+Ministerio del Trabajo y
+Previsión Social
+
+
+En imple- mentación148. Implementar los Observatorios Laborales e integrar sus resultados en políticas públicas.Un componente fundamental de la Estrategia y alineado con las recomendaciones de la UNESCO será el rol de los Observatorios Laborales, los que recogerán estadísticas constantemente y permitirán actualizar, en forma
+ágil y flexible, las acciones de apoyo y transición para trabajadoras y trabajadores.
+Ministerio del Trabajo y
+Previsión Social
+
+12-2026
+
+
+
+3.6.2 Diseñar e implementar mecanismos que permitan a las personas planificar rutas de reconversión y capacitación, fomentando el empleo formal en áreas de menor riesgo de automatización.
+
+
+
+
+
+
+CREAR Y MEJORAR LAS HERRAMIENTAS TECNOLÓGICAS EXISTENTES QUE PROPONGAN RUTAS LABORALES ADAPTATIVAS
+PARA LOS/LAS TRABAJADORES/ AS EN BASE A SUS COMPETENCIAS Y
+LAS DEMANDAS DEL MERCADO.
+
+
+149. Rutas adaptativas de reconversiónSe seguirán potenciando iniciativas que usen las capacidades predictivas y adaptativas de la IA para anticiparse a los cambios laborales y sugerir a las personas rutas de reconversión que se adapten a sus competencias y experiencia. Así, se buscará anticipar los cambios del mercado, entregar recomendaciones a las personas
+para la búsqueda de empleo, y orientar políticas de capacitación en miras de las nuevas ocupaciones que se irán generando.
+
+
+Ministerio del Trabajo y
+Previsión Social
+
+
+
+12-2026
+
+150. Incentivar empleo con herramientas de IA.Se elaborarán herramientas y sistemas de análisis de bolsa de empleo utilizando IA que permitan apoyar la transición de empleo informal a formal, detectando necesidades y oportunidades de empleo en diferentes sectores. Estas herramientas a su vez generan información útil para
+toma de decisiones para abordar el impacto de la IA en el mercado laboral.
+
+Ministerio del Trabajo y
+Previsión Social
+
+
+12-2026
+PROMOVER EL ANÁLISIS SECTORIAL DE RIESGOS Y OPORTUNIDADES Y EL INTERCAMBIO DE BUENAS PRÁCTICAS ENTRE SECTORES.
+
+151. Evaluación sectorial de riesgos y oportunidades.
+
+Elaboración de estudio de análisis por sector de industria para levantar ocupaciones de mayor riesgo de reemplazo, demanda de competencias, y necesidades específicas para fomentar la creación de empleo formal.Ministerio de Trabajo y
+Previsión Social
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2025
+
+
+3.6.3 Revisar y actualizar la legislación laboral y otros mecanismos para proteger a trabajadoras y trabajadores de la vulneración de sus derechos por cambios tecnológicos.
+
+
+
+
+
+PROMOVER LA REFLEXIÓN CRÍTICA EN TORNO A LA INTERACCIÓN HUMANO-MÁQUINA EN EL MUNDO DEL
+TRABAJO QUE PERMITA DESARROLLAR ACUERDOS Y GUÍAS DE BUENAS PRÁCTICAS.152. Acuerdo
+multisectorial para el uso ético, responsable y con las y los trabajadores en el centro, de la IA en el trabajo.
+
+Discusión de acuerdo y elaboración de dicho documento, conteniendo principios y compromisos de todas las partes involucradas que orienten su forma de actuar frente a los cambios actuales y futuros.
+
+Ministerio del Trabajo y
+Previsión Social
+
+
+12-2027153. Guía de buenas prácticas.Se elaborarán y pilotearán guías de buenas prácticas sectoriales para el uso ético de IA y el resguardo de trabajadoras y trabajadores.Ministerio del Trabajo y
+Previsión Social
+12-2026AVANZAR EN EL ANÁLISIS Y
+PROSPECCIÓN DE LA REGULACIÓN LABORAL CON RESPECTO A LA IA Y LA AUTOMATIZACIÓN PARA PROTEGER A TRABAJADORAS Y TRABAJADORES DE
+LA VULNERACIÓN DE SUS DERECHOS POR CAMBIOS TECNOLÓGICOS.
+
+
+
+
+154. Actualización del plan de derechos fundamentales
+
+
+
+
+Incorporar el impacto de la IA reconociendo el cambio productivo y la forma de trabajar.
+
+
+
+
+Ministerio del Trabajo y
+Previsión Social
+
+
+
+
+12-2025
+
+3.7 NIÑOS, NIÑAS Y ADOLESCENTES
+3.7.1 Fomentar el uso responsable de IA considerando las perspectivas de NNAs y orientándose al ejercicio de sus derechos.
+
+
+
+
+AVANZAR EN RECOMENDACIONES Y NORMATIVAS PARA EL DESARROLLO E IMPLEMENTACIÓN DE SISTEMAS DE IA QUE
+INVOLUCREN DIRECTA O INDIRECTAMENTE
+A NNAS, PARA QUE SE PROTEJAN SUS
+DATOS Y PRIVACIDAD, PREVENGAN LA DISCRIMINACIÓN, SESGOS Y ABUSOS, GARANTICEN SU BIENESTAR FÍSICO, EMOCIONAL Y MENTAL.
+
+
+
+
+
+155. Políticas y lineamientos para proteger la
+integridad de NNAs
+
+
+
+
+Con lo anterior, se elaborarán recomendaciones instrumentos
+para proteger la integridad de NNAs y promover oportunidades en el buen uso de la IA, para el sector público y privado durante todo el ciclo de vida de los sistemas.
+
+
+Ministerio de Desarrollo Social y Familia
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Educación
+
+
+
+
+
+
+12-2028
+
+FOMENTAR LA ALFABETIZACIÓN DIGITAL EN IA Y EL PENSAMIENTO CRÍTICO DESDE EDADES TEMPRANAS.156. Reglamentos y apoyo al uso de tecnologías digitales en
+establecimientos escolares.
+Se desarrollarán reglamentos tipo y se prestará apoyo a establecimientos educacionales en la generación de
+reglamentos internos para el uso de dispositivos digitales y el cyberbullying.
+
+Ministerio de Educación
+
+12-2025157. Estudio de iniciativas legales sobre el uso de aplicaciones basadas en IA.Se estudiarán iniciativas como el proyecto de ley que prohíbe el uso de celulares en establecimientos
+educacionales (boletín N° 16.062-04) para determinar medidas legales que puedan apoyar el correcto uso de dispositivos digitales en los establecimientos educacionales.
+Ministerio de Educación
+En imple- mentación
+
+3.8 CREACIÓN Y PROPIEDAD INTELECTUAL
+3.8.1 Promover un sistema de Propiedad Intelectual actualizado y balanceado, capaz de fomentar la innovación basada en IA y proteger derechos de creadores e innovadores.
+
+
+
+
+PARTICIPAR EN INSTANCIAS INTERNACIONALES DE DIÁLOGO Y DECISIÓN SOBRE LA REGULACIÓN DE IA RELACIONADA CON LA PROPIEDAD INTELECTUAL, CONTRIBUYENDO A
+LA FORMACIÓN DE POLÍTICAS GLOBALES. MANTENIENDO INFORMACIÓN PÚBLICA ACTUALIZADA SOBRE ESTOS AVANCES.
+
+
+
+
+
+158. Coordinación de organismos internacionales.
+
+
+
+
+
+Se continuará promoviendo la participación de Chile en instancias internacionales que traten sobre IA y PI,
+especialmente en la Organización Mundial de la Propiedad Intelectual, Unesco y otros grupos ad-hoc.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Relaciones Exteriores
+Ministerio de Economía, Fomento y Turismo
+Ministerio de las Culturas, las Artes y el Patrimonio
+
+
+
+
+
+
+12-2026IMPULSAR EL DESARROLLO Y ADOPCIÓN DE LA IA RESGUARDANDO DE FORMA EQUILIBRADA LOS DERECHOS
+DE CREADORES E INNOVADORES Y PROMOVIENDO LA TRANSPARENCIA, LA ÉTICA Y LAS BUENAS PRÁCTICAS EN EL USO DE IA.
+
+
+
+
+159. Acuerdos de cooperación con oficinas de PI.
+Impulsar un levantamiento de herramientas que utilicen IA en la gestión de las oficinas de PI, con la finalidad de analizar opciones de incorporar en Instituto Nacional de Propiedad Industrial (INAPI), Servicio Nacional del Patrimonio Cultural (SERPAT) y al Departamento de Derechos Intelectuales (DDI) ese tipo de herramientas. Con el onjetivo de mantener equilibrado el sistema nacional de Propiedad Intelectual y mejorar el acceso ciudadano a la información vinculada a la titularidad de tales activos.
+
+
+
+
+Ministerio de las Culturas, las Artes y el Patrimonio
+
+
+
+
+12-2026
+
+
+
+
+
+
+
+
+FOMENTAR I+D+I EN IA PARA DIVERSOS SECTORES, INCLUYENDO
+LAS INDUSTRIAS CREATIVAS.160. Fomentar el desarrollo de estrategias e infraestructura especializada para acercar la I+D+i
+a iniciativas del sector creativo.
+Fomentar el desarrollo de estrategias e infraestructura especializada para acercar la I+D+i a iniciativas del sector creativo, como por ejemplo el apoyo a la creación del Centro para la Revolución Tecnológica en Industrias Creativas (CRT+IC).Ministerio de Economía, Fomento y Turismo
+Ministerio de las Culturas, las Artes y el Patrimonio
+
+
+En imple- mentación
+
+161. Reflexión IA en el ámbito
+artístico, cultural y patrimonial.
+
+Promover la reflexión crítica constante en torno a los usos, limitaciones y disyuntivas que plantea la IA en el ámbito artístico, cultural y patrimonial de forma multisectorial, integrando a la industria, sector publico, sociedad civil y academia.Ministerio de las Culturas, las Artes y el Patrimonio
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+En imple- mentación
+
+162. Fortalecimiento Programa Jóvenes Programadores incorporando IA.
+
+Fortalecer el Programa de Jóvenes Programadores
+-dependiente de Biblioredes- en colaboración con Centros de Creación (Cecrea) y centros culturales. En esta línea, se ampliará la oferta de cursos, considerando las aplicaciones de las IAs generativas.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de las Culturas, las Artes y el Patrimonio
+
+
+12-2029
+
+3.9 CULTURA Y PRESERVACIÓN DEL PATRIMONIO CULTURAL
+3.9.1 Desarrollar capacidades en inteligencia artificial que permitan preservar y poner en valor el patrimonio cultural material e inmaterial de Chile, de manera ética y sostenible.
+
+
+
+
+
+
+
+
+
+
+
+PROMOVER EL DESARROLLO DE BASES DE DATOS ABIERTAS
+Y PROYECTOS DE INVESTIGACIÓN E INNOVACIÓN
+INTERDISCIPLINARIOS PARA EL DESARROLLO DE IA QUE PRESERVEN Y PROMUEVAN
+EL PATRIMONIO CULTURAL.163. Levantamiento de información sobre el impacto
+de IA sobre cultura, industrias creativas y patrimonio cultural
+Se promoverá el levantamiento de información sobre el potencial impacto de la IA, especialmente a la luz de las IAs generativas, sobre la cultura, el patrimonio y las industrias creativas.
+
+Ministerio de las Culturas, las Artes y el Patrimonio
+
+
+12-2027
+
+164. Preservación patrimonio cultural utilizando IASe promoverá el estudio de oportunidades e impactos de los sistemas de IA sobre la preservación del patrimonio cultural del país y elaborar una hoja de ruta para aprovechar las potencialidades de la IA. En esta línea se abordará la interoperabilidad de datos para generar una red de interaccion en el estado para conservación del patrimonio.
+
+Ministerio de las Culturas, las Artes y el Patrimonio
+
+
+12-2027
+
+
+
+165. Bases de datos de entrenamiento en español y lenguas originarias.
+
+
+
+Además, se impulsará y financiará la creación de bases de datos abiertas para el entrenamiento de modelos en español chileno y en dialectos de pueblos originarios del territorio nacional.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+Ministerio de Relaciones Exteriores
+Ministerio de las Culturas, las Artes y el Patrimonio
+
+
+
+
+12-2027
+
+3.10 ECOSISTEMA DIGITAL SEGURO
+3.10.1 Abordar la IA como un componente relevante en el ámbito de la ciberseguridad y ciberdefensa, promoviendo sistemas tecnológicos seguros.
+
+
+
+
+
+
+
+INCORPORAR LA IA EN LAS ESTRATEGIAS DE CIBERSEGURIDAD Y CIBERDEFENSA.
+
+
+
+166. IA en políticas de ciberseguridad.Incorporación de IA en políticas de ciberseguridad y ciberdefensa tanto por su potencialidad para generar nuevas amenazas como su potencial uso en prevenirlas. Es importante considerar a la Inteligencia Artificial como una herramienta más para proteger los sistemas informáticos de importancia vital para la ciudadanía, la cual debe ser contrastada y complementada con otras tecnologías y capacidades humanas, procurando que
+ninguna decisión importante en términos de respuesta a incidentes sea tomada sin un responsable humano de la acción.
+Ministerio de Ciencias, Tecnología,
+Conocimiento e Innovación
+Ministerio de Interior y
+Seguridad Pública
+
+
+
+En imple- mentación167. Analisis y
+consideración de elementos e
+impactos asociados a la seguridad y
+la ciberseguridad en los proyectos e iniciativas de la SUBTEL.
+
+
+Inclusión de consideraciones asociadas al impacto en la seguridad pública y elaborar una política de ciberseguridad para las telecomunicaciones.
+Ministerio de Transportes y Tele- comunicaciones
+Ministerio de Interior y
+Seguridad Pública
+
+
+6-2024
+
+
+
+
+FOMENTAR EL USO RESPONSABLE DE SISTEMAS DE IA PARA REACCIONAR A LOS ATAQUES
+INFORMÁTICOS EN EL ESTADO.168. Recomendaciones para uso de la
+IA en sistemas del Estado para combatir ataques informáticos.Se desarrollarán guías con recomendaciones para uso de la IA en sistemas del Estado para combatir ataques
+informáticos y reforzar el uso crítico y responsable de esta tecnología en procesos de diseño y desarrollo de sistemas informáticos y procesamiento de información, con el objetivo de evitar brechas de seguridad originadas de recomendaciones erradas de estos sistemas.
+
+Ministerio de Interior y
+Seguridad Pública
+
+
+12-2024
+
+
+169. Hoja de Ruta de ciberdefensa del EstadoSe trabajará en una hoja de ruta de implementación de sistemas que permitan mejorar las capacidades de ciberdefensa del Estado. Esto con el objetivo de
+colaborar en la protección de los intereses nacionales en el ciberespacio, coordinar el actuar de las instituciones con competencia en materia de ciberseguridad, velar por la protección, promoción y respeto del derecho a la seguridad informática, y coordinar y supervisar la acción de los organismos de la Administración del Estado en materia de ciberseguridad.
+
+
+Ministerio de Interior y
+Seguridad Pública
+
+
+
+12-2025
+
+
+
+
+
+FOMENTAR LA CAPACITACIÓN EN LAS ÁREAS ASOCIADAS A LA CIBERSEGURIDAD
+E INFRAESTRUCTURA CRÍTICA.
+
+
+170. Capacitación en ciberseguridad
+Promoción de planes de capacitación para profesionales que desarrollan, implementan y trabajan que tienen a su cargo sistemas informáticos y de Inteligencia Artificial, tanto para desarrollo de sistemas como para ciberdefensa, con el objetivo de orientar su uso y prevenir brechas, vulnerabilidades y errores en la interpretación o ejecución de los datos recibidos.Ministerio de Interior y
+Seguridad Pública
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+12-2026
+
+171. Plan de
+actualización de capacitaciones e instrumentos.Se promoverá un plan de actualización en capacitaciones que revise nuevas amenazas y mecanismos de
+defensa anualmente y así mantener las capacitaciones actualizadas. También es importante destacar que la capacitación sobre el funcionamiento de herramientas y algoritmos de IA, entendiendo sus limitaciones y fortalezas, permite a encargados de ciberseguridad del
+Estado estar mucho mejor preparados frente a potenciales ataques utilizando estas tecnologías.Ministerio de Interior y
+Seguridad Pública
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+12-2025
+
+
+
+3.10.2 Estudiar impacto y realizar medidas para prevenir y combatir la desinformación y la violencia en entornos digitales.
+
+
+
+
+FOCALIZAR FONDOS DE INVESTIGACIÓN INTERDISCIPLINARIOS EN TEMÁTICAS DE DESINFORMACIÓN, VIOLENCIA DIGITAL Y SALUD MENTAL, CON ESPECIAL ATENCIÓN A GRUPOS VULNERABLES COMO NIÑOS, NIÑAS, ADOLESCENTES Y MUJERES.
+
+172. Impulso a investigación multidisciplinaria sobre desinformación, violencia digital y salud mental.
+
+
+
+Se focalizará recursos de investigación para promover líneas que aborden estas temáticas con su intersección con IA.
+
+
+Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+
+
+
+En imple- mentación
+
+
+
+
+
+
+
+
+
+IMPLEMENTAR MEDIDAS EDUCATIVAS Y DE ALFABETIZACIÓN DIGITAL PARA PROMOVER UN USO RESPONSABLE DE
+LA IA Y COMBATIR LA VIOLENCIA EN
+ENTORNOS DIGITALES.
+173. Informes sobre desinformación.
+Informes de la Comisión Nacional de Desinformación para emitir recomendaciones para enfrentar el fenómeno en el entorno digital.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+Finalizado174. Difusión de recomendaciones sobre violencia digital y desinformación en género
+Estudio interdisciplinario con recomendaciones de política pública y regulación para prevenir y mitigar riesgos relativos a violencia digital y salud mental, con especial foco en niñas, niños y adolescentes.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+Finalizado
+175. Buenas prácticas y herramientas para la interacción con sistemas automatizadosSe desarrollarán guías de buenas prácticas para la interacción de usuarios con sistemas de IA en entornos comerciales.
+Estas guías irán acompañadas de herramientas como explicaciones tipo o interfaces gráficas sugeridas que las empresas pueden adoptar.
+Ministerio de Economía, Fomento y Turismo
+
+
+12-2025176. Promover investigación sobre la protección de datos personales
+y su gobernanza y uso ético.
+
+Focalizar fondos de investigación en el ámbito de datos personales, su gobernanza y uso ético.Ministerio de Ciencia, Tecnología,
+Conocimiento e Innovación
+
+12-2028177. Recomendaciones de buenas prácticas para consumo digital.Desarrollar lineamientos y orientaciones sobre buenas prácticas en el contexto de nuevas tecnologías digitales relacionadas a la IA.Ministerio de Economía, Fomento y Turismo
+12-2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+minciencia.gob.cl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+minciencia.gob.cl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

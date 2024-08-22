@@ -1,0 +1,2202 @@
+         Política Nacional de
+         Inteligencia Artificial
+
+        ACTUALIZACIÓN 2024
+
+
+
+
+GOBIERNO DE CHILE                  CHILE AVANZA CONTIGO
+minciencia.gob.cl
+Política Nacional de
+Inteligencia Artificial
+
+ACTUALIZACIÓN 2024
+COMITÉ DE EXPERTOS Y EXPERTAS
+
+Andrea Rodríguez
+Académica Universidad de Concepción                         María Paz Hermosilla
+Ph.D. in Spatial Information Science and Engineering        Directora GobLab
+in University of Maine, Estados Unidos.                     Académica Universidad Adolfo Ibáñez
+                                                            Master of Public Administration en         New     York
+Álvaro Soto                                                 University, Estados Unidos.
+Director Centro Nacional de Inteligencia Artiﬁcial
+Académico Pontiﬁcia Universidad Católica de Chile           Alberto Cerda
+Ph.D. en Ciencias de la Computación en Carnegie             Ford Foundation
+Mellon University, Estados Unidos.                          Académico Universidad de Chile
+                                                            S.J.D. en Georgetown University, Estados Unidos.
+Alejandra Pizarro
+Directora ANID                                              María “Cuky” Pérez
+Magíster en Gobierno y         Gerencia    Pública     en   Cientista de datos y directora de empresas
+Universidad de Chile, Chile.                                Ph.D. en Economía de la Educación en Stanford
+                                                            University, Estados Unidos.
+Loreto Bravo
+Directora Instituto de Data Science UDD                     Juan D. Velásquez
+Consejera del Consejo de Ciencia, Tecnología,               Investigador Titular Instituto Sistemas Complejos de
+Conocimiento e Innovación                                   Ingeniería (ISCI)
+Ph.D. in Computer Science, Carleton University,             Profesor Titular, Dpto. Ing. Industrial, Universidad de
+Canadá                                                      Chile
+                                                            Ph.D. Ingeniería de la Información en la Universidad
+Raphael Bergoeing                                           de Tokio, Japón.
+Presidente de la Comisión Nacional de Evaluación y
+Productividad (CNEP)
+Académico, Departamento de Ingeniería Industrial,
+Universidad de Chile
+Ph.D. en Economía en University of Minnesota, EEUU
+
+Néstor Becerra
+Profesor Titular, Universidad de Chile
+Ph.D. en Ingeniería Eléctrica de          University   of
+Edinburgh, Reino Unido
+
+Martín Tironi
+Director Núcleo Milenio Futures of Artiﬁcial
+Intelligence Research (FAIR)
+Académico Pontiﬁcia Universidad Católica de Chile
+Ph.D. en Centre de Sociologie de l’Innovation (CSI),
+Francia
+Contenidos
+
+Mensaje Ministra Aisén Etcheverry                                                                                    3
+Introducción
+MENSAJE MINISTRA AISÉN ETCHEVERRY                                                                       5        4
+    ¿Qué es un sistema de Inteligencia Artiﬁcial?                                                                4
+INTRODUCCIÓN                                                                                            7
+    ¿Quées
+   ¿Qué   lugar  ocupa de
+            un sistema   la IA en nuestra
+                            Inteligencia     sociedad?
+                                          Artificial?                                                   8        4
+          qué Chile
+    ¿Por lugar
+   ¿Qué        ocupanecesita    la presente
+                      la IA en nuestra         Política de IA?
+                                         sociedad?                                                      8            5
+        quéde
+    Etapas
+   ¿Por         construcción
+             Chile              de la Política
+                   necesita la presente          Nacional
+                                          Política  de IA? de Inteligencia Artiﬁcial                    9            9
+    Ejes y de
+   Etapas     construcción
+           objetivos         de la Política Nacional de Inteligencia Artificial
+                     de la política                                                                    13        10
+   Ejes y objetivos de la política                                                                     14
+Objetivo de la Política                                                                                          13
+Principios
+OBJETIVO DE    LA POLÍTICAde la Política de IA
+            transversales                                                                             19        14
+   PRINCIPIO
+PRINCIPIOS      1: Uso ético y responsable
+            TRANSVERSALES                     de la
+                                 DE LA POLÍTICA    DEIA,
+                                                       IA centrada en las personas                    21         14
+   PRINCIPIO1:2:Uso
+   PRINCIPIO       La IA  al servicio
+                       ético          de unde
+                             y responsable   desarrollo   sostenible
+                                               la IA, centrada en las personas                        22         15
+   PRINCIPIO  2:  La IA al servicio de un desarrollo  sostenible
+   PRINCIPIO 3: IA en articulación internacional y multiactor                                         23         16
+   PRINCIPIO  3: IA en articulación internacional y multiactor
+Ejes de la Política                                                                                   24         17
+     DEN°1
+   EJE
+EJES       • FACTORES HABILITANTES
+       LA POLÍTICA                                                                                    27         17
+      1.1. Desarrollo
+  EJE N°1   • FACTORES      Talento
+                        deHABILITANTES                                                                29         18
+		    1.1. Infraestructura
+      1.2.                     Tecnológica
+              Desarrollo de Talento                                                                   29        20
+		    1.2.Datos
+      1.3.    Infraestructura Tecnológica                                                             31         21
+       N°2 Datos
+		EJE 1.3.    • DESARROLLO Y ADOPCIÓN                                                                 33        22
+  EJE N°2 • DESARROLLO Y ADOPCIÓN                                                                     34
+      1.1. Investigación, Desarrollo e Innovación (I+D+I)                                                       22
+		    2.1. Investigación, Desarrollo e Innovación (I+D+I)                                             34
+      1.2. Adopción                                                                                             23
+		    2.2. Adopción                                                                                   35
+  EJEN°3
+  EJE          GOBERNANZA
+       N°3••GOBERNANZA            Y ÉTICA
+                                Y ÉTICA                                                               37        24
+		    3.1.Regulación
+      2.1.    Regulacióneeinstitucionalidad
+                             institucionalidad                                                        31        25
+		    3.2. Articulación
+      2.2.    Articulación Internacional
+                            Internacional                                                             32        26
+		            Medioambiente yy crisis
+      3.3. Medioambiente
+      2.3.                         crisisclimática
+                                          climática                                                   39        27
+		    3.4.    Igualdad  de  género
+      2.4. Igualdad de género                                                                         41        28
+		    3.5. Inclusión y no discriminación                                                              42
+      2.5. Incursión y no discriminación                                                                        29
+		    3.6. Impactos en el trabajo                                                                     43
+		    3.7. Impactos
+      2.6.                     trabajo
+                        en yeladolescentes
+              Niños, niñas                    (NNAs)                                                  45         31
+		    3.8. Niños,
+      2.7.          niñas
+              Creación      y adolescentes
+                         y propiedad           (NNAs)
+                                       intelectual                                                    46        32
+		    2.8.    Cultura yypreservación
+      3.9. Creación       propiedad intelectual
+                                        del patrimonio cultural                                       47        33
+		    3.10.Cultura
+      2.9.            y preservación
+              Ecosistema   Digital Segurodel patrimonio cultural                                      48        34
+       2.10. Ecosistema Digital Seguro
+BIBLIOGRAFÍA                                                                                          50        34
+Bibliografía                                                                                                    37
+ACRÓNIMOS                                                                                             52
+Acrónimos                                                                                                       39
+GLOSARIO		                                                                                            54
+Glosario                                                                                                        40
+
+
+
+
+                                                     3
+
+                                                 Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+Mensaje
+Ministra Aisén Etcheverry
+
+
+
+
+El compromiso del Gobierno del Presidente Gabriel Boric es posicionar a Chile a la
+vanguardia de la transformación tecnológica, promoviendo que la Inteligencia
+Artiﬁcial (IA) se convierta en una herramienta clave para el desarrollo sostenible y
+equitativo de nuestra sociedad. Con la actualización de la Política Nacional de IA,
+reaﬁrmamos nuestra visión de una tecnología al servicio de las personas, centrada en
+los principios de ética, inclusión y responsabilidad.
+
+Hemos avanzado signiﬁcativamente desde la publicación de la primera versión de
+esta Política en 2021, implementando iniciativas que han posicionado a Chile como
+líder en la región. En este proceso de actualización, hemos enfocado esfuerzos en
+fortalecer la gobernanza y la ética en el desarrollo y aplicación de la IA, asegurando
+que estos avances tecnológicos respeten los derechos fundamentales y promuevan
+un desarrollo inclusivo y sostenible. La inclusión de nuevas secciones en la política
+reﬂeja nuestra respuesta a los desafíos emergentes y aspiraciones de un futuro
+donde la tecnología fortalezca el tejido social y económico de Chile, a la vez que
+fortalecemos el liderazgo del país en la materia.
+
+Este es un momento crucial para Chile. La IA no solo tiene el potencial de impulsar
+nuestra economía y mejorar la eﬁciencia en diversos sectores, sino también de
+abordar desafíos sociales y medioambientales urgentes. Desde la protección del
+medioambiente hasta la promoción de la igualdad de género y la inclusión de niños,
+niñas y adolescentes, la IA puede y debe ser un motor de cambio positivo.
+
+Invito a todos los actores de nuestra sociedad a unirse en este esfuerzo colectivo. La
+colaboración entre el gobierno, la academia, la industria y la sociedad civil es
+fundamental para aprovechar el potencial de la IA de manera ética y responsable.
+Juntos y juntas, podemos asegurar que la IA contribuya a un Chile más justo,
+sostenible y próspero para todos.
+
+
+
+
+                                           5
+
+                                       Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+INTRODUCCIÓN⎪
+
+
+
+
+      INTRODUCCIÓN
+INTRODUCCIÓN⎪
+
+
+
+
+      ¿Qué es un sistema de Inteligencia Artiﬁcial?
+      —
+
+      Para efectos de esta política, ésta se adhiere a la deﬁnición de sistema de IA
+      propuesta por la Organización para la Cooperación y el Desarrollo Económico
+      (OCDE): “(...) Un sistema de IA es un sistema computacional que, en función de
+      objetivos explícitos o implícitos, inﬁere, a partir de los datos de entrada que recibe,
+      cómo generar resultados tales como predicciones, contenidos, recomendaciones o
+      decisiones que [pueden] inﬂuir en entornos físicos o virtuales. Los distintos sistemas
+      de IA varían en sus niveles de autonomía y capacidad de adaptación tras la
+      implementación” (OCDE, 2024).
+
+
+
+      ¿Qué lugar ocupa la IA en nuestra sociedad?
+      —
+
+      La IA ha adquirido un rol protagónico en los últimos años dado su carácter de
+      tecnología de propósito general, el aumento en la productividad que brinda y la
+      abundancia de los factores que la habilitan (Bresnahan y Trajtenberg, 1995; Klinger et
+      al., 2018).
+
+      Hoy nos rodea y está inmersa en distintos sectores de la economía, el conocimiento y
+      la sociedad. Recomienda las mejores rutas para llegar a los destinos, o las películas y
+      canciones que podrían ser del gusto del usuario, contribuye a diagnosticar
+      enfermedades oportunamente, o analiza grandes volúmenes de datos astronómicos
+      para encontrar supernovas o planetas como la tierra.
+
+      Pese a que el concepto comenzó a ser desarrollado en la década de 1950 (Rosenblatt,
+      1958; Minsky, 1961), la adopción de esta tecnología se ha acelerado en los últimos diez
+      años gracias a diferentes factores:
+
+           ●   Al explosivo aumento en la cantidad de datos digitales disponibles
+
+           ●   A los últimos desarrollos de IA generativa y multimodal
+
+           ●   La capacidad de cómputo
+
+           ●   La cantidad de personas capaces de desarrollarla
+
+           ●   El avance de otras tecnologías complementarias, haciendo posibles y
+               potenciando técnicas de aprendizaje de máquinas.
+
+
+
+                                                                   8
+
+        Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+INTRODUCCIÓN⎪
+
+
+
+
+      ¿Por qué Chile necesita la presente Política de IA?
+      —
+      El desafío de la revolución tecnológica plantea la necesidad apremiante de acelerar
+      nuestra adaptación a los cambios producidos por la masiﬁcación de tecnologías
+      disruptivas como la inteligencia artiﬁcial (IA) en la sociedad. Dado que la IA es una
+      tecnología de propósito general con un impacto transversal en la productividad, es
+      clave empoderarnos en su desarrollo y empleo para aprovechar las oportunidades
+      del futuro. De hecho, el crecimiento económico futuro de Chile depende en gran
+      medida de la IA, al punto que su tasa de crecimiento podría incrementarse en un
+      punto porcentual por cada tres puntos de crecimiento al 2035, según el BID.
+
+      En reconocimiento de esta realidad, el Consejo Nacional de Innovación para el
+      Desarrollo (CNID) planteó en 2019 cinco dimensiones de acción clave relacionadas
+      con la IA: talentos y empleo, capital tecnológico, capital social, modernización del
+      Estado y marco ético-regulatorio. Asimismo, identiﬁcó cinco oportunidades
+      estratégicas: posicionar a Chile como polo mundial de ciencia de datos, fomentar un
+      ecosistema de emprendimiento e innovación, promover una revolución tecnológica
+      inclusiva, impulsar un Estado digital y desarrollar talentos para el siglo XXI.
+
+      Esta necesidad llevó a que en 2019 un grupo de ministerios liderados por el
+      Ministerio de Ciencia, Tecnología, Conocimiento e Innovación presentara un
+      diagnóstico sobre la urgencia de elaborar una Política Nacional de Inteligencia
+      Artiﬁcial, respaldado por la Comisión Desafíos del Futuro del Senado. En línea con
+      este imperativo, Chile adhirió a las recomendaciones del inﬂuyente Consejo de IA de
+      la OCDE, convirtiéndose en uno de los primeros países en adoptar este estándar
+      internacional en la materia.
+
+      En ese marco de trabajo, Chile publicó la primera versión de la presente Política en el
+      2021, sin embargo, desde entonces, se han implementado una serie de iniciativas
+      tales como la creación del Centro Nacional de Inteligencia Artiﬁcial (CENIA) y el
+      Núcleo Milenio Futures of Artiﬁcial Intelligence Research (FAIR), la focalización en
+      IA de becas de doctorado (Agencia Nacional de Investigación y Desarrollo, ANID),
+      puesta en marcha de redes de 5G, el primer doctorado de IA en Chile y
+      Latinoamérica, implementación del Proyecto Algoritmos Éticos1 como un proyecto
+      concreto de aplicación ética en sistemas de IA y ciencia de datos en el Estado, la
+      emisión de una Circular Ministerial para el uso de IA en el Estado, entre otras
+      medidas. Esto ha posicionado a Chile en el primer lugar de la región en el Índice
+      Latinoamericano de IA (CENIA, 2023).
+
+      1
+       Algoritmos Éticos es una iniciativa público-privada inédita en Chile y Latinoamérica, ejecutada por la Universidad Adolfo Ibáñez con
+      ﬁnanciamiento de BID Lab y ANID, que busca promover el uso ético y responsable de IA y ciencia de datos en el sector público y
+      privado. Ha desarrollado guías, herramientas, normativa y pilotos de implementación en alianza con 9 organizaciones públicas y
+      privadas. Más información en: https://goblab.uai.cl/algoritmos-eticos/
+
+
+                                                                       9
+
+                                                                   Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+INTRODUCCIÓN⎪
+
+
+
+
+      Fuente: Ficha país de Chile. Fuente: Índice Latinoamericano de Inteligencia Artiﬁcial. Centro Nacional de Inteligencia
+      Artiﬁcial, 2023 página 204.. https://indicelatam.cl/
+
+
+
+
+      El Índice Latinoamericano de IA destaca que Chile demuestra los siguientes puntos:
+
+           1. Posee un buen rendimiento en infraestructura tecnológica, con la velocidad
+              de internet más alta de América Latina y la implementación de 5G en curso,
+              sin embargo, falta capacidad soberana de cómputo de alto rendimiento
+              para IA.
+
+           2. Respecto a disponibilidad de datos, Chile tiene alta disponibilidad, pero bajo
+              uso e impacto de ellos, lo que da cuenta de la necesidad de políticas que
+              apunten a la gobernanza de datos.
+
+           3. En cuanto a capital humano, particularmente la formación profesional en IA,
+              el Índice destaca que Chile supera el promedio regional. Existen programas
+              universitarios en el top 500 de QS, un importante número de licenciados en
+              computación y habilidades tecnológicas en la fuerza laboral. El capital
+              humano avanzado también alcanza puntajes altos. Por otro lado, la
+              alfabetización digital está presente en el sistema educativo, pero no
+              especíﬁcamente en inteligencia artiﬁcial, lo cual se hace relevante en este
+              contexto. Existen cursos de programación abiertos que podrían expandirse
+              a IA.
+
+
+
+
+                                                                  10
+
+        Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+INTRODUCCIÓN⎪
+
+
+
+
+         4. La investigación en IA es de las mejores a nivel regional, con publicaciones,
+            investigadores y centros especializados, además de productividad e
+            impacto altos.
+
+         5. La innovación y desarrollo (propiedad industrial e intelectual y procesos de
+            transferencia tecnológica efectivos) es un área donde se identiﬁca una
+            ventana de oportunidad, con baja productividad en código abierto y patentes.
+            La adopción de IA supera los promedios regionales tanto en empresas como
+            en inversión y promoción gubernamental.
+
+         6. La adopción de tecnologías de IA en el sector empresarial y el apoyo
+            gubernamental en investigación y desarrollo superan los promedios
+            regionales.
+
+         7. En cuanto a la visión e institucionalidad de la IA, Chile implementa esta
+            Política Nacional de IA el 2021 con alta participación ciudadana y cuenta con
+            instituciones de seguimiento, esfuerzo que se ratiﬁca con las actividades
+            realizadas para su actualización.
+
+         8. Chile participa y lidera la deﬁnición de estándares internacionales sobre IA, a
+            través de la OCDE, la ONU, y otros organismos a nivel global y regional.
+
+         9. Chile ha hecho progresos signiﬁcativos en la formulación de un marco
+            regulatorio claro que aborde los desafíos éticos, legales y sociales asociados
+            con estas tecnologías
+
+
+
+
+                                               11
+
+                                            Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+INTRODUCCIÓN⎪
+
+
+
+
+          CUADRO N°1           PROCESO DE ACTUALIZACIÓN
+
+
+            Esta política se desarrolló y publicó en el año 2021, a través de un amplio proceso participativo
+            que produjo un documento con altos niveles de consenso que se ha transformado en una política
+            de Estado. Debido al acelerado desarrollo de IA a nivel global, durante el 2023 y 2024 se decide
+            actualizar su contenido para abordar las oportunidades, desafíos y brechas que se acrecentaron
+            los últimos dos años con un foco particular en el eje 3 de la política el que se enfoca en los
+            aspectos de gobernanza y ética que impactan en la vida de todas las personas.
+
+            Para este proceso de actualización, se convocó a múltiples
+            partes interesadas en todas las regiones del país. Más de 300
+            personas deliberaron sobre el futuro de la IA en el país en el
+            marco de la metodología RAM realizada por la Unesco entre
+            junio y septiembre del año 2023, y publicada en octubre del
+            mismo año (Unesco, 2023)2 .
+
+            Adicionalmente se realizó una consulta ciudadana en línea
+            centrada en el Eje 3 entre enero y marzo de 2024, en la que
+            participaron 640 personas de todo el territorio nacional. Esto
+            permitió identiﬁcar las inquietudes, opiniones y nivel de
+            acuerdo de la ciudadanía con las acciones propuestas en el
+            documento consultado.
+
+            Por otro lado, se incorporaron resultados de otras
+            instancias, tales como el Foro y la Cumbre de Ética
+            para la Inteligencia Artiﬁcial en América Latina y el
+            Caribe (realizado en Chile en octubre de 2023), las
+            recomendaciones desarrolladas por el Comité de Expertas y Expertos en Inteligencia Artiﬁcial y el
+            informe de las mesas técnicas de la comisión de Desafíos del Futuro Ciencia, Tecnología e
+            Innovación en el Senado.3
+
+            Vigencia
+
+            La actualización de la Política Nacional de Inteligencia Artiﬁcial, llevada a cabo en el año 2024,
+            conserva y reaﬁrma el horizonte temporal de 10 años originalmente establecido por su primera
+            versión, publicada en 2021, extendiendo su aplicabilidad hasta el año 2031. Este plazo asegura la
+            coherencia en la implementación de las acciones delineadas y reﬂeja el compromiso del Estado
+            con el desarrollo sostenido y responsable de la IA en el país.
+
+
+
+
+      2
+        RAM es un instrumento desarrollado por la UNESCO que evalúa el estado de preparación de un país para la implementación ética y
+      responsable de la IA, a través de cinco dimensiones: Jurídica/Regulatoria, Social/Cultural, Económica, Cientíﬁca/Educativa y
+      Tecnológica/Infraestructura destacando qué cambios institucionales y regulatorios serán necesarios. Su objetivo es facilitar la
+      implementación de la Recomendación sobre la Ética de la Inteligencia Artiﬁcial de la UNESCO, aprobada en 2021 por sus 193 Estados
+      Miembros.      Chile     es      el    primer    país  en      el     mundo         en    implementar      esta     metodología.
+      https://unesdoc.unesco.org/ark:/48223/pf0000387216
+
+      3
+        Propuesta para la Mesa de Trabajo “Legislando sobre la Inteligencia Artiﬁcial” de la Comisión “Desafíos del Futuro, Ciencia,
+      Tecnología e Innovación” del Senado de la República 2023 . Disponible en
+      https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio/10221/34579/1/Minuta_N_84_23_Metodologia_sub_mesas_de_trabajo_IA.pd
+      f
+
+
+                                                                    12
+
+          Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+INTRODUCCIÓN⎪
+
+
+
+
+      Etapas de construcción de la Política Nacional de Inteligencia Artiﬁcial
+      —
+
+
+
+
+                                           13
+
+                                        Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+INTRODUCCIÓN⎪
+
+
+
+
+      Ejes y objetivos de la política
+      —
+
+       EJE                 SUBEJE                   OBJETIVOS
+
+
+                                                      ● Promover el desarrollo de habilidades para el uso, desarrollo,
+                                                        comprensión de la IA en el sistema escolar.
+
+                                                      ● Impulsar la IA como una disciplina transversal en la formación
+                                                        profesional y técnico-profesional.
+
+                                                      ● Promover la formación de habilidades para el uso, desarrollo,
+                                                        comprensión y análisis crítico de la IA a trabajadoras y trabajadores
+                                                        de Chile.
+                           Desarrollo de
+                           talento                    ● Incrementar la cantidad de expertos y expertas en IA e incentivar
+                                                        su incorporación de este talento al sector académico, público y
+                                                        privado.
+
+                                                      ● Realizar ejercicios de prospección periódicos para orientar la
+                                                        formación de talento.
+       Factores
+       Habilitantes                                   ● Impulsar programas de educación y capacitación para funcionarios
+                                                        públicos y público general sobre el uso ético de IA para funcionarios
+                                                        públicos y la ciudadanía en este sector. NUEVO
+
+
+                                                      ● Desplegar y potenciar la infraestructura de conectividad que
+                                                        garantice un acceso de calidad
+                           Infraestructura
+                           Tecnológica                ● Desplegar High Performance Computing que aumente las
+                                                        capacidades de almacenamiento y procesamiento para IA en el
+                                                        país.
+
+
+                                                      ● Fomentar y consolidar una agenda de datos de interés público,
+                                                        que resulte tanto en certezas legales como en deﬁniciones claras
+                           Datos                        de responsabilidades al interior del Estado, y que impulse un
+                                                        ecosistema público-privado de generación y acceso a datos de
+                                                        calidad para el uso y desarrollo de IA y tecnologías aﬁnes.
+
+
+                                                      ● Generar indicadores de productividad de la IA para Chile.
+                           Investigación,
+                           Desarrollo e               ● Potenciar la I+D chilena en IA para lograr un nivel igual o superior
+                           Innovación (I+D+I)           al promedio OECD.
+       Desarrollo y
+                                                      ● Impulsar la colaboración entre la academia y el sector productivo
+       adopción
+                                                        para I+D de sistemas con IA.
+
+
+
+
+                                                                  14
+
+        Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+INTRODUCCIÓN⎪
+
+
+
+
+       EJE          SUBEJE              OBJETIVOS
+
+
+                                        ● Fomentar el desarrollo del ecosistema de I+D+i+e donde el Estado,
+                                          el sector productivo y la academia colaboren en el impulso de un
+                                          nuevo modelo de desarrollo aprovechando las potencialidades de
+                                          la IA.
+                    Adopción
+                                        ● Fomentar e impulsar la productividad económica de la IA para
+                                          llegar a niveles iguales o superiores al promedio de crecimiento
+                                          económico para países OCDE por el impacto de IA.
+
+                                        ● Acelerar la modernización del Estado mediante IA.
+
+
+                                        ● Impulsar la construcción de certezas regulatorias sobre los
+                                          sistemas de IA que permitan su investigación, desarrollo e
+                                          implementación, respetando los derechos fundamentales.
+                    Regulación e
+                                        ● Desarrollar herramientas para el uso ético de inteligencia artiﬁcial
+                    institucionalidad
+                                          en el Estado.NUEVO
+
+                                        ● Impulsar programas de capacitación para funcionarios públicos
+                                          sobre el uso ético de IA en este sector NUEVO
+
+
+                                        ● Promover y articular la discusión sobre gobernanza de la IA y
+                    Articulación
+                                          cooperación internacional en América Latina y El Caribe NUEVO
+                    internacional
+                                        ● Colaborar e incidir activamente en la discusión de gobernanza y
+                    NUEVO
+                                          estándares a nivel internacional. NUEVO
+
+       Gobernanza
+       y ética      Medioambiente y     ● Fomentar el uso de IA para combatir la crisis climática NUEVO
+                    Crisis Climática
+                                        ● Fomentar el uso de energías renovables no convencionales en el
+                    NUEVO                 desarrollo de la IA NUEVO
+
+
+                                        ● Fomentar la participación de mujeres en áreas de investigación y
+                                          desarrollo relacionadas a la IA para alcanzar un nivel igual o mayor
+                                          a al promedio OCDE
+                    Igualdad de
+                    género              ● Fomentar la participación de mujeres en áreas de IA en la industria
+                                          hasta alcanzar, al menos, un valor igual o superior al promedio
+                                          OCDE y velar porque el impacto de la automatización no
+                                          perjudique por género y que la creación de empleo sea equitativa.
+
+
+                    Inclusión y no      ● Fomentar la inclusión y no discriminación en la implementación
+                    discriminación        de sistemas de IA. NUEVO
+
+
+
+
+                                                  15
+
+                                               Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+INTRODUCCIÓN⎪
+
+
+
+
+       EJE                 SUBEJE                   OBJETIVOS
+
+
+                           NUEVO                      ● Promover el acceso y la participación de diversos grupos sociales
+                                                        en áreas de investigación y desarrollo en IA. NUEVO
+
+
+                                                      ● Desarrollar e implementar la Estrategia Nacional de Prospección
+                                                        Laboral. NUEVO
+
+                                                      ● Diseñar e implementar mecanismos que permitan a las personas
+                                                        planiﬁcar rutas de reconversión y capacitación, fomentando el
+                           Impactos en el
+                                                        empleo formal en áreas de menor riesgo de automatización
+                           trabajo
+                                                        NUEVO
+
+                                                      ● Revisar y actualizar la legislación laboral y otros mecanismos para
+                                                        proteger a trabajadoras y trabajadores de la vulneración de sus
+                                                        derechos por cambios tecnológico NUEVO
+
+
+                           Niños, Niñas y
+                           Adolescentes               ● Fomentar el uso responsable de IA considerando las perspectivas
+                                                        de NNAs y orientándose al ejercicio de su derecho. NUEVO
+                           NUEVO
+
+
+                           Creación y
+                                                      ● Promover un sistema de Propiedad Intelectual actualizado y
+                           propiedad
+                                                        balanceado, capaz de fomentar la innovación basada en IA.
+                           intelectual
+
+
+                           Cultura y
+                           preservación del
+                                                      ● Desarrollar capacidades en inteligencia artiﬁcial que permitan
+                           patrimonio
+                                                        preservar y poner en valor el patrimonio cultural material e
+                           cultural
+                                                        inmaterial de Chile, de manera ética y sostenible. NUEVO
+                           NUEVO
+
+
+                                                      ● Abordar la IA como un componente relevante en el ámbito de la
+                                                        ciberseguridad y ciberdefensa, promoviendo sistemas
+                                                        tecnológicos seguros.
+                           Ecosistema
+                           Digital Seguro
+                                                      ● Estudiar impacto y realizar medidas para prevenir y combatir la
+                                                        desinformación, la violencia digital y sus efectos en la salud mental.
+                                                        NUEVO
+
+
+
+
+      Nota: Los objetivos marcados como NUEVO han sido incorporados producto del proceso de actualización 2023-2024
+      de esta política. Los demás provienen de la versión 2021 de esta Política.
+
+
+
+
+                                                                  16
+
+        Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+   17
+
+Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+OBJETIVO⎪
+
+
+
+
+       OBJETIVO DE LA POLÍTICA
+
+       Fomentar el desarrollo y uso ético y responsable de la Inteligencia Artiﬁcial en
+       Chile, para que esta tecnología juegue un rol promotor en el nuevo modelo de
+       desarrollo y crecimiento del país.
+Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+PRINCIPIOS⎪
+
+
+
+
+       PRINCIPIOS TRANSVERSALES DE
+       LA POLÍTICA DE IA
+
+       Los principios transversales que se presentan a continuación constituyen la
+       columna vertebral de la Política Nacional de Inteligencia Artiﬁcial de Chile.
+       Enmarcan todas las acciones e iniciativas que emanan de ella y constituyen la hoja
+       de ruta ética que se espera que guíe el desarrollo y adopción de estas poderosas
+       tecnologías en Chile.
+
+       Es tarea del Estado promover que la IA sea desarrollada y utilizada de manera
+       responsable, inclusiva y transparente. Estos tres principios transversales reﬂejan el
+       compromiso con el bienestar de todos los ciudadanos y ciudadanas, así como con la
+       prosperidad y la sostenibilidad del país.
+PRINCIPIOS⎪
+
+
+
+
+       PRINCIPIO 1: Uso ético y responsable de la IA, centrada en las personas
+       —
+
+       El desarrollo de la IA debe contribuir al bienestar integral de todas las personas. La
+       estrecha relación de esta tecnología con las personas, que cada vez tiene un impacto
+       más grande en nuestras vidas, requiere que dichos sistemas se desarrollen de
+       manera ética e inclusiva.
+
+       Las acciones que contiene esta Política estarán orientadas a impulsar el desarrollo de
+       la IA con el objetivo de mejorar la calidad de vida, aprovechar sus beneﬁcios para
+       toda la población, sin exclusión ni discriminaciones, y abordando los riesgos y
+       potenciales impactos negativos, con respeto a los derechos y la dignidad de las
+       personas. Para lograr aquello surgen múltiples desafíos, para los cuales se
+       promoverán los siguientes lineamientos:
+
+
+
+              a. IA Centrada en las personas: Los sistemas de IA se desarrollarán y utilizarán
+                 como una herramienta al servicio de las personas, que respete la dignidad
+                 humana y la autonomía personal, y que funcione de manera que pueda ser
+                 controlada y vigilada adecuadamente por seres humanos.
+
+              b. Solidez y seguridad: Los sistemas de IA se desarrollarán y se utilizarán de
+                 manera que se minimicen los daños previstos e imprevistos, siendo sólidos en
+                 caso de problemas imprevistos y resistentes a los intentos de modiﬁcación del
+                 uso o rendimiento del sistema de IA con ﬁnes ilícitos por parte de terceros.
+
+              c. Privacidad y gobernanza de datos: Los sistemas de IA se desarrollarán y se
+                 utilizarán de conformidad con las normas vigentes en materia de privacidad y
+                 protección de datos, y sólo tratarán datos que cumplan con la normativa en
+                 términos de calidad e integridad.
+
+              d. Transparencia y explicabilidad: Los sistemas de IA se desarrollarán y se
+                 utilizarán facilitando una trazabilidad y explicabilidad adecuadas, de modo tal
+                 que las personas sean conscientes de que se comunican o interactúan con un
+                 sistema de IA, informando debidamente a los usuarios cómo el sistema ha
+                 obtenido sus predicciones o resultados, así como también sobre las
+                 capacidades y limitaciones de dicho sistema de IA.
+
+
+
+
+                                                                   22
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+PRINCIPIOS⎪
+
+
+
+
+              e. Diversidad, no discriminación e igualdad: Los sistemas de IA se desarrollarán
+                 y se utilizarán incluyendo a diversos agentes y promoviendo la igualdad de
+                 acceso, la igualdad de género y la diversidad cultural, evitando al mismo
+                 tiempo los efectos discriminatorios y los sesgos prohibidos por el
+                 ordenamiento jurídico.
+
+              f. Bienestar social y medioambiental: Los sistemas de IA se desarrollarán y se
+                 utilizarán de manera sostenible.
+
+              g. Rendición de cuentas y responsabilidad: Los sistemas de IA deberán
+                 asegurar que quienes intervienen en su ciclo de vida, sostengan una
+                 responsabilidad profesional sobre el impacto de los usos de esta tecnología,
+                 facilitando así un proceso efectivo y transparente de rendición de cuentas.
+
+
+
+       PRINCIPIO 2: La IA al servicio de un desarrollo sostenible
+       —
+
+       La IA tiene un gran potencial para diversiﬁcar la matriz económica y hacer más
+       productivas las industrias, así como fomentar el ecosistema de investigación,
+       tecnología, innovación, emprendimiento, y las aplicaciones comerciales o como
+       bienes públicos derivadas de él. Es por eso por lo que como principio esta política
+       apunta a promover el desarrollo e implementación de los sistemas de IA que
+       posibiliten y faciliten el camino hacia el crecimiento económico y en el contexto de
+       un modelo de desarrollo basado en la sostenibilidad.
+
+       Chile cuenta con realidades diversas a lo largo de su geografía. Para promover el
+       desarrollo de la IA responsable se considerarán especialmente las características
+       propias del país, teniendo en cuenta las necesidades, capacidades existentes y
+       potencialidades de cada territorio. En esta línea, el país seguirá trabajando en un
+       camino de desarrollo en IA que considere la realidad local y la de Latinoamérica.
+
+       Las acciones se orientarán a potenciar el uso y desarrollo de la tecnología en el país,
+       aprovechando y adaptándose a las características únicas de nuestro territorio, el
+       fortalecimiento del ecosistema de forma equitativa y la incorporación de la IA como
+       un eje del desarrollo sostenible del país, esto es, con consideraciones sociales,
+       económicas y medioambientales.
+
+
+
+
+                                                    23
+
+                                                 Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+PRINCIPIOS⎪
+
+
+
+
+       PRINCIPIO 3: IA en articulación internacional y multiactor
+       —
+
+       El desarrollo de la IA tiene un importante componente de cooperación internacional
+       Las acciones de la presente Política considerarán en todas las acciones la
+       cooperación internacional y la participación multiactor en su desarrollo. Sobre la
+       cooperación internacional, gran parte del debate de usos y desarrollo de la IA
+       traspasa las fronteras nacionales e incluso continentales, espacios en los cuales Chile
+       participa activamente analizando las recomendaciones y principios debatidos a nivel
+       global y, alineándose con el desarrollo de políticas y ecosistemas locales.
+
+       Asimismo, se fortalece la colaboración regional para establecer una visión conjunta
+       en los debates globales sobre el uso y desarrollo de sistemas de IA. En octubre de
+       2023 se ﬁrmó la Declaración de Santiago para promover una IA ética en América
+       Latina y el Caribe, en el marco de la Cumbre de Altas Autoridades en esta materia,
+       convocada por el Gobierno de Chile, la UNESCO y el Banco de Desarrollo de América
+       Latina y el Caribe (CAF). Este hito permitió conformar un espacio de liderazgo para la
+       gobernanza de la IA en la región, que permita a América Latina y el Caribe tener una
+       voz común respecto a este tema global.
+
+       La política reconoce la necesidad de una articulación efectiva con todos los actores
+       de la sociedad para el buen uso y desarrollo de la IA. Esto abarca desde el sector
+       privado e industrias hasta el sector público y gobiernos, pasando por la ciudadanía
+       en general, la sociedad civil organizada y el sector académico. Dada la inﬂuencia y rol
+       signiﬁcativo de estos actores en el ciclo de la IA, la política busca establecer
+       mecanismos de colaboración y diálogo constante.
+
+       De esta manera en los objetivos y acciones presentados a continuación se promueve
+       una participación inclusiva que reﬂeje las diversas perspectivas y valores de la
+       sociedad, asegurando que el desarrollo de la IA sea ético, equitativo, sin
+       discriminación y beneﬁcioso para toda la ciudadanía.
+
+
+
+
+                                                                   24
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+   25
+
+Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+        EJES DE LA POLÍTICA
+EJES DE LA POLÍTICA⎪
+
+
+
+
+        En base al análisis comparado de las estrategias de IA publicadas a la fecha por
+        diversos países, y con el objetivo de facilitar su elaboración y la deliberación
+        ciudadana, especialmente entre grupos con intereses generales o aquellos que
+        tienen un foco muy especíﬁco, la Política de IA fue estructurada en tres ejes. Sin
+        embargo, es preciso tener presente que muchas de las temáticas tratadas están
+        interrelacionadas, conexión que se representa en los principios transversales de la
+        presente política4.
+
+        Considerando el proceso de actualización de la Política 2021, a las nuevas tendencias
+        del contexto mundial, debates a nivel global y regional sobre la materia, la
+        implementación de la RAM de la UNESCO en Chile y un nuevo proceso participativo
+        que ahondó en el Eje 3 de Gobernanza y Ética, cabe mencionar que se mantuvo la
+        estructura de tres ejes, radicando la actualización en los nuevos objetivos que se
+        abordarán.
+
+
+
+             ●    Eje N°1 Factores Habilitantes.
+
+             ●    Eje N°2 Desarrollo y adopción.
+
+             ●    Eje N°3 Gobernanza y Ética.
+
+
+
+        En las secciones siguientes se describen los tópicos abordados en cada eje, los
+        principales objetivos especíﬁcos y las estrategias propuestas para alcanzarlos. El
+        detalle de las iniciativas se incluirá en el Plan de Acción actualizado que será
+        elaborado en el futuro.
+
+
+
+
+        4
+          La numeración de los ejes que luego se enuncian no signiﬁca necesariamente una priorización ni el establecimiento de un orden de
+        prelación entre ellos.
+
+
+                                                                       28
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+        EJE N°1 • FACTORES HABILITANTES
+        —
+
+        Son los elementos basales que posibilitan la existencia y el despliegue de sistemas
+        de IA. Es decir, aquellos componentes sin los cuales la investigación, desarrollo y uso
+        de esta tecnología se hace imposible. Se incluyen en este eje el desarrollo de
+        talentos, infraestructura tecnológica, y datos. Se plantean objetivos para desarrollar
+        talento, impulsar la infraestructura tecnológica para avanzar hacia un polo de
+        desarrollo regional; y consolidar una agenda de fortalecimiento de nuestro sistema
+        de datos.
+
+        Para aquello se propone trabajar en las siguientes líneas y objetivos:
+
+
+
+           1.1. Desarrollo de Talento
+
+        El uso y el desarrollo de la IA tiene, como primer requisito, la presencia de personas
+        con adecuada formación, experiencia y comprensión en materia de datos,
+        estadística, matemáticas, ingenierías, procesamiento de señales, programación y
+        disciplinas en las humanidades y ciencias sociales para que se realicen
+        investigaciones y tecnologías basadas en IA transdisciplinarias (OCDE, 2019).
+
+        En cuanto a la formación universitaria de pre y postgrado, a nivel global, se observa
+        un aumento en la escasez de personas con estas capacidades (OCDE, 2019). El
+        escenario actual en Chile es tal que existen brechas en capacidad y talentos en todos
+        los niveles para áreas relacionadas con la transformación digital. En el informe “Pulso
+        demanda de empleos digitales” se indica que el 66% de las empresas consultadas
+        tenía planes de contratar a personal ligado al área de Tecnologías de la Información
+        (TI) en el plazo de un año (Sence, 2022). Además, lo anterior se evidencia en la RAM
+        (UNESCO, 2023) y en el Índice Latinoamericano de IA (CENIA, 2023). Sin embargo, el
+        país ha desarrollado políticas públicas e iniciativas (tanto del sector público como del
+        privado, la academia y de la sociedad civil) que apuntan a formar el capital humano
+        en diversos ámbitos.
+
+        Con esto, resulta indispensable contar con personas dedicadas a la I+D aplicada en IA
+        en Chile para lograr los objetivos de esta política. Para abordar estos desafíos y
+        oportunidades se propone:
+
+
+
+
+                                                   29
+
+                                                Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA ⎪ EJE 1N°1
+
+
+
+
+             ●   Promover el desarrollo de habilidades para el uso, desarrollo, comprensión
+                 de la IA en el sistema escolar.
+
+                   ➜ Generar recursos para el aprendizaje de IA en el contexto educativo.
+
+                   ➜ Fortalecer la dimensión de conocimientos TIC en las bases curriculares
+                       para incorporar habilidades necesarias para el desarrollo y uso ético de
+                       la IA.
+
+                   ➜ Promover el desarrollo de habilidades necesarias para la implementación y
+                       desarrollo IA en la comunidad educativa.
+
+                   ➜ Generar espacios de participación a nivel nacional para estudiantes de
+                       educación básica y media, en base al desarrollo de proyectos y la
+                       resolución de desafíos.
+
+             ●   Impulsar la IA como una disciplina transversal en la formación profesional
+                 y técnico-profesional.
+
+                   ➜ Desarrollar programas de IA en Centros de Formación Técnica (CFT) e
+                       Institutos Profesionales (IP) para concientizar y luego               desarrollar
+                       habilidades, conocimientos y actitudes relevantes para la IA.
+
+                   ➜ Identiﬁcar, diseñar, adaptar y potenciar instrumentos de certiﬁcación o
+                       caliﬁcación para habilidades relacionadas a IA.
+
+                   ➜ Incorporar la IA y la ética como un conocimiento transversal a las carreras
+                       de las Instituciones de Educación Superior (IES).
+
+                   ➜ Promover la formación y fortalecimiento de carreras ligadas a las ciencias
+                       de la computación, robótica y hardware asociado a IA.
+
+             ●   Promover la formación de habilidades para el uso, desarrollo, comprensión
+                 y análisis crítico de la IA a trabajadoras y trabajadores de Chile.
+
+                   ➜ Potenciar programas e instrumentos de capacitación para actualizar y
+                       reconvertir (upskilling y reskilling) a las y los trabajadores del país.
+
+             ●   Incrementar la cantidad de expertos y expertas en IA e incentivar su
+                 incorporación de este talento al sector académico, público y privado.
+
+                   ➜ Promover la focalización de fondos públicos destinados a formar talentos
+                       ligado a labores de investigación, desarrollo y usos técnicos en torno a
+                       la IA.
+
+
+                                                                    30
+
+          Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+                ➜ Promover la generación de incentivos en la academia y la industria local
+                  para aprovechar los talentos formados en IA.
+
+                ➜ Adecuar la acreditación de los programas nacionales de acuerdo con
+                  métricas internacionales de IA.
+
+           ●   Realizar ejercicios de prospección periódicos para orientar la formación de
+               talento.
+
+                ➜ Realizar ejercicios permanentes de prospección y anticipación en IA para
+                  la orientación de la formación de talento.
+
+                ➜ Actualizar de manera constante las hojas de ruta de formación de talento.
+
+           ●   Impulsar programas de educación y capacitación sobre el uso ético de IA
+               para funcionarios públicos y la ciudadanía. NUEVO
+
+                ➜ Fortalecer la capacitación permanente en uso ético de IA para diferentes
+                  contextos de la administración pública.
+
+                ➜ Fomentar la educación de la ciudadanía sobre uso ético de la IA, sus
+                  riesgos y beneﬁcios,      promoviendo           el    pensamiento            crítico     y    la
+                  alfabetización digital.
+
+
+
+           1.2. Infraestructura Tecnológica
+
+        El desarrollo y uso de la IA tiene como requisito una adecuada conectividad,
+        plataformas accesibles de manera ubicua, centros de almacenamiento de datos,
+        centros de supercómputo, entre otros. La infraestructura tecnológica no solo
+        impacta a través de la mejora en procesos productivos y nuevas metodologías de
+        trabajo, sino que también en el servicio ﬁnal que recibe la población y las facilidades
+        que signiﬁcan para su vida cotidiana. Un ejemplo es la implementación del 5G que
+        ha signiﬁcado grandes inversiones en los últimos años para sustentar la
+        transformación digital (RAM, 2023).
+
+        Sin embargo, América Latina enfrenta una brecha importante en comparación a las
+        grandes potencias en cuanto a infraestructura tecnológica, pero se está avanzando
+        en una fase de crecimiento que involucra la llegada de nuevas tecnologías que están
+        aportando al bienestar de la población (CENIA, 2023).
+
+        Chile destaca en la región por su infraestructura tecnológica, especialmente la de
+        conectividad. Por ejemplo, de acuerdo con los datos recopilados por la evaluación
+
+                                                    31
+
+                                                Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪ EJE N°1
+
+
+
+
+        hecha por Unesco, existen 133 suscripciones móviles cada 100 personas, un 98% de la
+        población con acceso al menos a red 3G, un promedio de banda ancha internacional
+        de 4,3 Mbit/s y una velocidad de descarga promedio de 229,48 Mbps, además, existe
+        una creciente presencia de centros de datos, existiendo 15 a la fecha (RAM, 2023).
+        Pese a lo anterior, el país tiene que resolver importantes brechas como la brecha en
+        conectividad urbana-rural o el aumento de la estabilidad y velocidad de las redes.
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+               ●    Desplegar y potenciar la infraestructura de conectividad que garantice un
+                    acceso de calidad.
+
+                      ➜ Acelerar el despliegue del Sistema de Conectividad Nacional5.
+
+                      ➜ Implementar proyectos de infraestructura tecnológica de importancia
+                          regional y global.
+
+                      ➜ Generar proyectos de conectividad ciudadana y subsidios estatales (como
+                          Wi-Fi públicos, 5G, entre otros).
+
+                      ➜ Modernizar la regulación para garantizar estándares mínimos de acceso y
+                          calidad de servicio.
+
+               ●    Desplegar capacidad de High Performance Computing que aumente las
+                    capacidades de almacenamiento y procesamiento para IA en el país.
+
+                      ➜ Fomentar la inversión privada, pública y público-privada en proyectos en
+                          infraestructura tecnológica para HPC basada en las ventajas comparativas
+                          de Chile.
+
+                      ➜ Promover ejercicios permanentes de prospección y anticipación de
+                          demanda de infraestructura de IA y tecnologías relacionadas.
+
+
+
+
+        5
+            Ministerio de Transporte y Telecomunicaciones.
+
+
+                                                                      32
+
+            Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+           1.3. Datos
+
+        Para que exista un despliegue efectivo de IA en Chile es necesario un ecosistema
+        donde existan repositorios de datos abiertos, diversos y de alta calidad, pero que
+        también sean seguros y resguarden los derechos de privacidad y protección de los
+        datos de las personas.
+
+        Aunque la existencia de grandes volúmenes de datos no es garantía de buenos
+        algoritmos de IA, es necesario para el entrenamiento adecuado de los algoritmos.
+        Además, se requiere que los datos representen adecuadamente las realidades (sean
+        de buena calidad), sin sesgos nocivos, interoperables, reutilizables, correctamente
+        anonimizados y agregados (si corresponde), no discriminatorios, entre otras
+        características.
+
+        Para abordar estos desafíos y oportunidades se proponen los siguientes objetivos:
+
+           ●   Fomentar y consolidar una agenda de datos de interés público, que resulte
+               tanto   en    certezas    legales  como   en  deﬁniciones claras de
+               responsabilidades al interior del Estado, y que impulse un ecosistema
+               público-privado de generación y acceso a datos de calidad para el uso y
+               desarrollo de IA y tecnologías aﬁnes.
+
+                ➜ Impulsar la implementación de la regulación sobre protección de datos
+                  personales y generar mecanismos que permitan adaptarse a los nuevos
+                  desarrollos tecnológicos.
+
+                ➜ Actualizar y consolidar una gobernanza adecuada de datos en el Estado
+                  que fomente la disponibilidad de datos y su calidad.
+
+                ➜ Fomentar el desarrollo de institucionalidad, conﬁanza y mecanismos para
+                  que la industria comparta y disponga datos a nivel sectorial.
+
+                ➜ Poner   en marcha iniciativas que actúen como catalizadores del
+                  ecosistema en áreas prioritarias, en base a ventajas comparativas del país.
+
+                ➜ Fomentar la disponibilidad de datos cientíﬁcos.
+
+                ➜ Fomentar el crecimiento de comités o comunidades de usuarios de datos
+                  de interés público.
+
+
+
+
+                                                  33
+
+                                               Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪ EJE N°2
+
+
+
+
+        EJE N°2 • DESARROLLO Y ADOPCIÓN
+        —
+
+        Comprende el espacio donde se investiga, desarrolla y despliega la IA. Este espacio
+        contiene a los actores que crean, proveen y demandan diferentes aplicaciones y
+        técnicas de IA, como la academia, el Estado, el sector privado y la sociedad civil.
+
+        En este eje se incluye investigación básica y aplicada, transferencia tecnológica,
+        innovación, emprendimiento, mejoramiento de servicios públicos, desarrollo
+        económico basado en tecnología, adopciones que incrementen la productividad,
+        entre otros.
+
+        Para aquello se propone trabajar en las siguientes líneas.
+
+
+
+            2.1. Investigación, Desarrollo e Innovación (I+D+I)
+
+        Actualmente, el impacto global de la I+D hecha en Latinoamérica y el Caribe es
+        mínimo. El Índice Latinoamericano de IA (CENIA, 2023) muestra importantes brechas
+        en la producción cientíﬁca y la innovación y desarrollo en IA. En particular,
+        indicadores como la atracción de conferencias, la inversión en I+D y las patentes en
+        IA son particularmente bajos, lo que muestra desafíos a abordar. Además, uno de los
+        principales desafíos es incrementar la inversión en I+D del sector privado, que se ha
+        mantenido estancada o a la baja durante la última década
+
+        En términos relativos, Chile se encuentra por sobre el promedio de la región en
+        investigación y adopción, pero todavía existen importantes carencias y desafíos
+        relativos a la investigación, el desarrollo, la innovación, el emprendimiento y la
+        adopción de la IA.
+
+        Para aumentar la productividad de nuestro país se debe fortalecer la investigación y
+        el ecosistema de innovación en torno a la IA. En esa línea, en este eje se abordan los
+        factores que permiten fomentar la investigación de frontera de IA, la innovación y la
+        transferencia tecnológica.
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+            ●   Generar indicadores de productividad de la IA para Chile.
+
+                  ➜ Generar     indicadores               de     productividad   cientíﬁca   y   transferencia
+                      tecnológica de la IA.
+
+                  ➜ Generar indicadores de productividad de la IA en la economía.
+
+
+                                                                   34
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+               ●     Potenciar la I+D chilena en IA para lograr un nivel igual o superior al
+                     promedio OECD6.
+
+                       ➜ Modiﬁcar criterios de acreditación para programas relacionados a IA, que
+                           se adecuen a cada disciplina.
+
+                       ➜ Fomentar la I+D en IA, tanto en la academia como en la industria.
+
+                       ➜ Atraer conferencias internacionales en IA y ámbitos relacionados.
+
+                       ➜ Fomentar el ﬁnanciamiento de la investigación aplicada y de desarrollo en
+                           esta materia.
+
+               ●     Impulsar la colaboración entre la academia y el sector productivo para I+D
+                     de sistemas con IA.
+
+                       ➜ Fomentar el desarrollo de proyectos conjuntos industria-universidad.
+
+                       ➜ Fomentar y potenciar programas de postgrado que incorporen objetivos
+                           del sector productivo.
+
+                       ➜ Fomentar la inserción de talentos en el sector productivo.
+
+
+
+
+               2.2. Adopción
+
+        La adopción de IA en Chile, tanto en el sector privado como público, es baja y se
+        encuentra lejos de los niveles que se necesita para lograr el objetivo de la presente
+        política. Adicionalmente, existen pocos datos ﬁables sobre adopción y uso de IA, lo
+        que hace más complejo el diseño de instrumentos y políticas públicas adecuadas. La
+        política ha contribuido a avanzar en el levantamiento de indicadores y promover la
+        adopción, pero es un desafío que, al tiempo de esta actualización, sigue muy vigente.
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+               ●     Fomentar el desarrollo del ecosistema de I+D+i+e donde el Estado, el
+                     sector productivo y la academia colaboren en el impulso de un nuevo
+                     modelo de desarrollo aprovechando las potencialidades de la IA.
+
+                       ➜ Anticipar desafíos y misiones que orienten el trabajo del ecosistema de
+                           I+D+i+e.
+
+
+
+        6
+            En 2020 el promedio de países OCDE fue de 2,74, el valor de Chile fue de 0,33.
+
+
+                                                                            35
+
+                                                                        Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪ EJE N°2
+
+
+
+
+                  ➜ Fomentar        el    desarrollo                    de   emprendimientos   de   base
+                      cientíﬁco-tecnológica con IA.
+
+                  ➜ Generar una comunidad de emprendedores e innovadores en IA.
+
+
+
+
+            ●   Fomentar e impulsar la productividad y crecimiento económico con la IA.
+
+                  ➜ Promover capacitación a directorios, niveles ejecutivos y dirigencias
+                      gremiales del sector productivo.
+
+                  ➜ Incentivar y fomentar la adopción de IA en la industria.
+
+                  ➜ Visibilizar el uso de IA en la industria.
+
+
+
+
+            ●   Acelerar la modernización del Estado mediante IA.
+
+                  ➜ Abordar desafíos de innovación en el Estado mediante el uso de IA.
+
+                  ➜ Promover la capacitación e incentivos para impulsar la IA en el Estado.
+
+                  ➜ Fomentar la modernización de los procesos de compras públicas de
+                      sistemas de IA.
+
+                  ➜ Poner en valor los casos de éxito en la adopción y uso de IA en el Estado.
+
+
+
+
+                                                                   36
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+        EJE N°3 • GOBERNANZA Y ÉTICA
+        —
+
+        Este eje aborda las nuevas discusiones y desafíos que han surgido a propósito de la
+        interacción entre las personas y esta tecnología. Los elementos incorporados tienen
+        como objetivo avanzar en marcos de acción para el desarrollo, uso e implementación
+        de sistemas de IA, que permitan proteger a las personas de sus potenciales impactos
+        y acompañar las transformaciones sociales, económicas y medioambientales
+        asociadas a estos sistemas.
+
+        Para aquello se propone trabajar en las siguientes líneas.
+
+
+
+           3.1. Regulación e institucionalidad
+
+        El desarrollo de tecnologías disruptivas, como la IA, con foco en las personas, la
+        protección del medioambiente y el impulso a la innovación requieren de marcos
+        regulatorios que posibiliten el cumplimiento de esos principios. Esta motivación ha
+        orientado las discusiones globales a propósito de la IA durante los últimos años.
+        Diversos países han avanzado en marcos regulatorios e institucionalidad y hoy existe
+        una reﬂexión a nivel global sobre la necesidad de una gobernanza de esta
+        herramienta.
+
+        Debido al acelerado desarrollo de la IA generativa y dada la interacción que se genera
+        entre seres humanos y estos sistemas, la regulación y gobernanza del uso de esta
+        herramienta ha incorporado desafíos sociales y éticos. En este sentido, es ya evidente
+        que la IA impacta la relación entre las personas, el mundo del trabajo, el rol de los
+        NNAs, el cuidado del medioambiente y su interacción directa con los ecosistemas.
+        Por lo tanto, requiere de una regulación novedosa y diferente. Esa regulación sólo se
+        logra con procesos participativos, convocando a todos los actores y de tal forma que
+        considere los principios de responsabilidad y ética en su construcción.
+
+        Lograr aquello requiere una multiplicidad de acciones, a todos los actores relevantes
+        y, por sobre todo, la generación de capacidades y aprendizajes (en el sector público,
+        la academia, la sociedad civil y la industria) para llevar esas discusiones con
+        profundidad y generar los consensos sociales que se requieren.
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+           ●   Impulsar la construcción de un marco regulatorio integral sobre los
+               sistemas de IA que permitan su investigación, desarrollo y uso
+               responsable, respetando los derechos fundamentales.
+
+                                                    37
+
+                                                 Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪ EJE N°3
+
+
+
+
+                  ➜ Impulsar   la actualización de las leyes complementarias a la IA,
+                      armonizando con los estándares y buenas prácticas internacionales
+
+                  ➜ Implementar requisitos éticos y de transparencia en el sistema de
+                      compras públicas.
+
+                  ➜ Desarrollar y acordar los requisitos mínimos, como por ejemplo la
+                      transparencia, rendición de cuentas, protección de datos personales, entre
+                      otros, para cautelar el desarrollo y uso responsable de la IA.
+
+                  ➜ Fomentar la participación ciudadana en la formulación de políticas y
+                      regulaciones relacionadas con el uso ético de la IA.
+
+            ●   Desarrollar herramientas para el uso ético de inteligencia artiﬁcial en el
+                Estado.
+
+                  ➜ Establecer lineamientos, recomendaciones y marcos de colaboración para
+                      el uso ético de sistemas de IA en el sector público.
+
+                  ➜ Establecer estándares y recomendaciones de transparencia, rendición de
+                      cuentas y protección de datos personales.
+
+
+
+            3.2. Articulación Internacional
+
+        La IA es una tecnología transformadora a nivel global, es capaz de trascender
+        fronteras y conectar comunidades, naciones y regiones. A nivel internacional, se
+        observa una tendencia hacia la colaboración y el establecimiento de estándares
+        comunes que guíen el desarrollo y uso responsable de la IA, destacando la necesidad
+        de un diálogo inclusivo que incorpore las perspectivas de todas las regiones.
+
+        Los países emergentes, y en particular los de América Latina y el Caribe, han tenido
+        una baja participación en la discusión y elaboración de principios que gobernarán la
+        IA los próximos años. Hasta la fecha, la discusión que ha derivado en la creación de
+        un catálogo de principios que deben regir la IA ha estado concentrada en el Norte
+        Global, al igual que gran parte del desarrollo tecnológico y regulatorio. La actual
+        recomendación de la UNESCO reconoce este punto y busca avanzar en consensos
+        globales, pero que recojan la realidad de cada región.
+
+        La articulación internacional es fundamental para que Chile no solo se mantenga al
+        día con los avances tecnológicos globales, sino que también contribuya con la visión
+        y experiencias a la gobernanza global de esta tecnología. Esto permitirá avanzar
+
+
+                                                                   38
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+        hacia el desarrollo de una IA sostenible y capaz de enfrentar los retos globales
+        actuales y futuros.
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+           ●   Promover y articular la discusión y cooperación sobre gobernanza de la IA
+               a nivel regional e internacional.
+
+                ➜ Impulsar la colaboración entre países de América Latina y el Caribe para la
+                  gobernanza de la IA desde una perspectiva ética considerando las
+                  realidades y necesidades locales.
+
+                ➜ Impulsar alianzas estratégicas con países líderes en IA para facilitar el
+                  intercambio de conocimientos,          experiencias         y    colaboración en el
+                  desarrollo y gobernanza de IA.
+
+           ●   Colaborar e incidir activamente en la discusión de gobernanza y
+               estándares a nivel internacional.
+
+                ➜ Promover la participación de Chile en foros de discusión internacional
+                  relativos a la IA.
+
+                ➜ Promover la participación de Chile en la discusión internacional relativa a
+                  certiﬁcaciones y estándares para el desarrollo y uso responsable de IA.
+
+
+
+           3.3. Medioambiente y crisis climática
+
+        La IA se está convirtiendo en una poderosa aliada en la lucha contra el cambio
+        climático y los desafíos socioambientales. Por una parte, ayuda a usar los recursos de
+        manera más inteligente y eﬁciente, y, por otro lado, a identiﬁcar patrones que
+        permiten prevenir daños al medioambiente antes de que ocurran.
+
+        Sin embargo, para que la IA funcione, necesita gran cantidad de recursos
+        energéticos, especialmente para entrenar a los avanzados sistemas de IA que
+        pueden, por ejemplo, entender y generar lenguaje humano. Estos sistemas se
+        entrenan en supercomputadoras y guardan sus datos en centros de
+        almacenamiento que consumen energía para funcionar y mantenerse.
+
+        Chile, reconocido por sus esfuerzos en proteger el medioambiente, está bien
+        posicionado para enfrentar este desafío gracias a su capacidad para generar energía
+        proveniente de fuentes renovables, como el sol y el viento, siendo un elemento
+
+
+
+                                                  39
+
+                                               Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪ EJE N°3
+
+
+
+
+        crucial para la creación y funcionamiento de sistemas de IA de manera sostenible y
+        respetuosa con el medioambiente.
+
+        Además, Chile cuenta con la Ley Marco de Cambio Climático, Ley 21.455, que
+        establece un marco jurídico para hacer frente a los desafíos que presenta el cambio
+        climático, asegurando que la contribución al desarrollo tecnológico cuente con
+        acciones concretas para enfrentar el cambio climático -como la reducción de la
+        emisión de gases- y la adaptación a sus efectos. Por otra parte, el país cuenta con
+        una normativa de evaluación de actividades sobre el territorio que determina si el
+        impacto ambiental de una actividad o proyecto se ajusta a las normas vigentes. Así,
+        se trabaja para que la infraestructura necesaria para la IA (como los centros de datos
+        e infraestructura de comunicación, como antenas y redes) sea lo más eﬁciente y
+        amigable con el medioambiente posible, usando la potencia y ventajas comparativas
+        en la producción de energías limpias.
+
+        Para abordar estos desafíos y oportunidades se proponen los siguientes objetivos:
+
+            1. Fomentar el uso de IA para combatir la crisis climática.
+
+                  ➜ Impulsar el uso de herramientas de IA y algoritmos para el monitoreo
+                      oportuno, eﬁcaz y eﬁciente del medioambiente y que pueda contribuir a
+                      disminuir el impacto ambiental del Estado y las actividades sobre el
+                      territorio.
+
+                  ➜ Focalizar recursos para el uso de la inteligencia artiﬁcial para la
+                      investigación y para procesos de transferencia tecnológica en ámbitos de
+                      medioambiente y crisis climática.
+
+                  ➜ Fomentar la investigación y el desarrollo de sistemas de IA para la
+                      sostenibilidad ambiental y respetuosos con el medioambiente.
+
+            2. Fomentar el uso de energías renovables no convencionales en el
+               desarrollo de la infraestructura para IA.
+
+                  ➜ Impulsar mecanismos de análisis y evaluación que permitan comprender
+                      y prevenir el impacto medioambiental de la infraestructura utilizada para
+                      el desarrollo de IA en Chile.
+
+                  ➜ Promover la utilización de energías renovables y de bajo consumo de
+                      recursos en los proyectos de infraestructura habilitante para la IA.
+
+
+
+
+                                                                   40
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+           3.4. Igualdad de género
+
+        La brecha de género, en el contexto del desarrollo de la IA, se maniﬁesta tanto en la
+        distribución desigual de hombres y mujeres en disciplinas STEM y en roles de
+        liderazgo dentro de estos ámbitos, como también en la manera en que se diseñan y
+        entrenan los sistemas. Una faceta de esta problemática es la ausencia de
+        entrenamiento de estos sistemas con datos representativos de mujeres, lo cual
+        constituye una barrera de acceso y contribuye a la subrepresentación de género en
+        el ámbito tecnológico. Este desequilibrio en los datos de entrenamiento conduce a la
+        creación de sistemas de IA que no solo reﬂejan las desigualdades de género
+        existentes, sino que también tienen el potencial de profundizarlas.
+
+        Un ejemplo de cómo la IA puede perpetuar y ampliﬁcar la brecha de género se
+        encuentra en los algoritmos de reconocimiento facial. Investigaciones han
+        demostrado que algunos de estos sistemas presentan tasas de error
+        signiﬁcativamente más altas en la identiﬁcación de rostros femeninos,
+        especialmente aquellos de mujeres afrodescendientes, en comparación con los
+        rostros masculinos. Esta discrepancia surge debido a la predominancia de datos de
+        hombres blancos en los conjuntos de entrenamiento, lo que resulta en un
+        rendimiento subóptimo cuando dichos sistemas son aplicados a poblaciones no
+        representadas adecuadamente en esos datos. Este sesgo en la tecnología no solo
+        evidencia una falla en la igualdad de género, sino que también plantea serias
+        implicaciones para la privacidad, seguridad y acceso a servicios para las mujeres
+        afectadas, diﬁcultando la construcción de un Chile para todas.
+
+        Por tanto, es importante abordar la desigualdad de género en el desarrollo de la IA,
+        que incluya no solo la promoción de la diversidad en los equipos de desarrollo, sino
+        también la implementación de estrategias rigurosas para asegurar que los conjuntos
+        de datos sean representativos y equitativos.
+
+        Para abordar estos desafíos se propone:
+
+           ●   Fomentar la participación de mujeres en áreas de investigación y
+               desarrollo relacionadas a la IA para alcanzar un nivel igual o mayor a al
+               promedio OCDE.
+
+                ➜ Generar un sistema de monitoreo y análisis con indicadores respecto a la
+                  participación por género en el sistema de investigación, tecnología, e
+                  innovación que incluirá un foco en áreas relacionadas a la IA.
+
+                ➜ Promover activamente el acceso, la participación y el desarrollo igualitario
+                  de las mujeres en las áreas relacionadas a IA.
+
+
+                                                  41
+
+                                               Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪ EJE N°3
+
+
+
+
+            ●   Fomentar la participación de mujeres en áreas de IA en la industria, y velar
+                porque el impacto de la automatización no perjudique por género,
+                avanzando hacia una participación equitativa en el empleo.
+
+                  ➜ Generar indicadores para establecer líneas de base y monitorear la
+                      inclusión de mujeres y otros grupos sociales en las áreas relacionadas a IA
+                      en la industria.
+
+                  ➜ Incorporar variables de género y otros grupos sociales en los ejercicios de
+                      prospección del Mercado Laboral, focalizando políticas de capacitación y
+                      actualización a mujeres y otros grupos sociales para mitigar el impacto de
+                      la automatización en ámbitos donde son mayormente perjudicadas.
+
+
+
+            3.5. Inclusión y no discriminación
+
+        La transformación digital, potenciada por la IA, tiene el potencial de remodelar la
+        sociedad de maneras profundamente positivas, pero también enfrenta el riesgo de
+        exacerbar las desigualdades existentes si no se gestiona con un enfoque en la no
+        discriminación e inclusión. Las diferencias en acceso y conocimiento entre zonas
+        urbanas y rurales, así como entre generaciones y diversas comunidades étnicas,
+        raciales y de personas con discapacidad, evidencian cómo la digitalización puede
+        dejar atrás a sectores signiﬁcativos de la población.
+
+        Un ejemplo de IA para la inclusión es el desarrollo de asistentes virtuales de IA que
+        facilitan la navegación web para personas con discapacidad visual. Sin embargo, si
+        estos asistentes se entrenan sin considerar la amplia gama de necesidades
+        especíﬁcas de este grupo, podrían no ser capaces de interpretar correctamente sitios
+        web que no siguen las pautas de accesibilidad, limitando su utilidad y perpetuando
+        barreras de acceso. La IA tiene el potencial de ser un poderoso motor para la
+        igualdad y la inclusión, ofreciendo soluciones innovadoras para superar obstáculos
+        históricos y presentes. Sin embargo, este potencial sólo puede alcanzarse si se
+        abordan activamente los sesgos inherentes en los datos utilizados para entrenar
+        sistemas de IA y en la composición de los equipos de desarrollo.
+
+        El acceso y la contribución a los datos de entrenamiento de IA son fundamentales
+        para garantizar que la transformación digital sea inclusiva. Esto implica no solo la
+        creación de infraestructuras que permitan a todos los sectores de la sociedad
+        acceder a la tecnología, sino también la implementación de prácticas que aseguren
+        la representación equitativa de todos los grupos sociales en los conjuntos de datos.
+        Esto también signiﬁca la promoción de la diversidad dentro de los equipos de
+
+
+                                                                   42
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+        desarrollo tecnológico y el diseño de algoritmos que identiﬁquen y mitiguen sesgos.
+
+        Por tanto, la revolución digital, impulsada por la IA, debiese ser un motor para la
+        igualdad y la inclusión, creando un futuro en el que todas las personas, sin importar
+        su ubicación, capacidad, edad, género, origen étnico o racial, tengan la oportunidad
+        de participar plenamente y beneﬁciarse de los avances tecnológicos.
+
+        Para abordar estos desafíos se propone:
+
+           ●   Fomentar la inclusión y no discriminación en la implementación de
+               sistemas de IA.
+
+                ➜ Fomentar la inclusión y no discriminación dentro de las buenas prácticas
+                  en el desarrollo de sistemas de IA.
+
+                ➜ Promover el uso de herramientas de evaluación de sesgos y no
+                  discriminación durante todo el ciclo o de vida de los sistemas de IA.
+
+           ●   Promover el acceso y la participación de diversos grupos sociales en áreas
+               de investigación y desarrollo en IA
+
+                ➜ Promover la participación y el desarrollo igualitario de diferentes grupos
+                  subrepresentados en IA.
+
+
+
+           3.6. Impactos en el trabajo
+
+        Los avances en el desarrollo de tecnologías emergentes, incluida la IA, están
+        cambiando la naturaleza del trabajo, y se espera que continúen en las próximas
+        décadas, de hecho, el 42% de tareas empresariales estarán automatizadas al 2027.
+        (World Economic Forum, 2023). En esta línea, las actividades y labores se verán
+        modiﬁcadas y evolucionarán a nuevas formas de trabajar, incorporando sistemas de
+        IA en algunas labores, lo que debe tender a incrementar el bienestar y la
+        productividad. Sin embargo, las transformaciones en el empleo fruto de la IA son una
+        fuente de preocupación por el eventual reemplazo de labores, lo que implicaría la
+        pérdida de trabajo para potencialmente un número de personas relevantes.
+
+        Para anticiparse a los cambios, aprovechar las potenciales oportunidades de
+        incremento en productividad y apoyar a las personas cuyas ocupaciones pudieran
+        verse afectadas. Chile ya inició un camino de prospección para implementar una
+        estrategia que se haga cargo de este fenómeno. La presente actualización apunta a
+        fortalecer esta estrategia y la necesidad de que involucre a todos los actores.
+
+
+                                                  43
+
+                                               Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪ EJE N°3
+
+
+
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+               ●   Prospectar impactos de la IA en el ámbito laboral y anticipar estrategias
+                   para la disminución de brechas.
+
+                     ➜ Prospectar y anticipar cambios en el mercado laboral para disminución de
+                         brechas en sectores especíﬁcos y anticipar la necesidad de reconversión y
+                         capacitación
+
+               ●   Diseñar e implementar mecanismos que permitan a las personas planiﬁcar
+                   rutas de reconversión y capacitación, fomentando el empleo formal en
+                   áreas de menor riesgo de automatización.
+
+                     ➜ Crear y mejorar las herramientas tecnológicas existentes que propongan
+                         rutas laborales adaptativas para los/las trabajadores/as en base a sus
+                         competencias y las demandas del mercado.
+
+                     ➜ Promover el análisis sectorial de riesgos y oportunidades y el intercambio
+                         de buenas prácticas entre sectores.
+
+               ●   Revisar y actualizar la legislación laboral y otros mecanismos para proteger
+                   a trabajadoras y trabajadores de la vulneración de sus derechos por
+                   cambios tecnológicos.
+
+                     ➜ Promover la reﬂexión crítica en torno a la interacción humano-máquina en
+                         el mundo del trabajo que permita desarrollar acuerdos y guías de buenas
+                         prácticas.
+
+                     ➜ Avanzar en el análisis y prospección de la regulación laboral con respecto a
+                         la IA y la automatización para proteger a trabajadoras y trabajadores de la
+                         vulneración de sus derechos por cambios tecnológicos.
+
+                     ➜ Promover recomendaciones para la creación, revisión y actualización de
+                         códigos de ética empresariales, con criterios ESG7 de las empresas y el
+                         respeto por los derechos laborales.
+
+
+
+
+        7
+            ESG son factores medioambientales, sociales y de gobierno corporativo que orientan las acciones de una empresa.
+
+
+                                                                      44
+
+            Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+           3.7. Niños, niñas y adolescentes (NNAs)
+
+        Los sistemas de IA están cambiando el mundo e impactando la forma de actuar de
+        las generaciones presentes y futuras de niños, niñas y adolescentes (NNA), quienes ya
+        interactúan con las tecnologías de inteligencia artiﬁcial de muchas maneras
+        diferentes, en áreas como la educación, el entretenimiento, y las redes sociales. Por lo
+        tanto, su inﬂuencia en el desarrollo, bienestar, y derechos de los NNAs crece
+        exponencialmente.
+
+        A nivel global y local, existe una creciente conciencia sobre los impactos de la IA en
+        los jóvenes, reconociendo tanto sus potencialidades para el aprendizaje y la
+        creatividad como los riesgos asociados a la privacidad, el bienestar mental y la
+        exposición a contenidos dañinos. Es entonces esencial establecer marcos de acción
+        que aseguren la participación activa de los NNAs en la creación de políticas de IA y
+        promover que los sistemas de IA sean diseñados y utilizados de manera que
+        respeten y promuevan sus derechos.
+
+        Organizaciones internacionales como UNESCO y de UNICEF han elaborado
+        recomendaciones para avanzar en el resguardo y ejercicio de sus derechos de NNAs
+        y avanzar hacia una institucionalidad de IA que promueva su adecuado desarrollo,
+        recomendaciones que han sido consideradas en la elaboración de esta política para
+        resguardar que el desarrollo de estos sistemas no vulnere sus derechos.
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+           ●   Fomentar el uso responsable de IA considerando las perspectivas de NNAs
+               y orientándose al ejercicio de sus derechos.
+
+                ➜ Avanzar    en recomendaciones y normativas para el desarrollo e
+                  implementación de sistemas de IA que involucren directa o
+                  indirectamente a NNAs, para que se protejan sus datos y privacidad,
+                  prevengan la discriminación, sesgos y abusos, garanticen su bienestar
+                  físico, emocional y mental.
+
+                ➜ Fomentar la alfabetización digital en IA y el pensamiento crítico desde
+                  edades tempranas.
+
+
+
+
+                                                   45
+
+                                                Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪ EJE N°3
+
+
+
+
+            3.8. Creación y propiedad intelectual
+
+        El desarrollo y la adopción de la IA han abierto preguntas antes impensadas en
+        materia de propiedad intelectual (PI), como si una máquina puede o no ser titular de
+        derechos, si creaciones hechas por máquinas debiesen ser o no protegidas y cuáles
+        son las dimensiones de las expresiones creativas que son susceptibles de protección
+        de propiedad intelectual. Desde la música y el cine hasta la literatura y el arte visual,
+        la IA está transformando la forma en que se produce y consume el contenido,
+        muchas veces masiﬁcando su acceso, a la vez que plantea interrogantes sobre la
+        originalidad, la atribución y la explotación comercial de obras generadas por
+        algoritmos.
+
+        En este contexto es importante equilibrar la protección de los derechos e intereses
+        legítimos de autores/as y titulares con la promoción de la innovación con IA y un
+        acceso equitativo a la información. Este sub-eje aspira a fomentar un ecosistema
+        digital inclusivo y ético, donde la tecnología y la creatividad se complementen para
+        enriquecer la vida de sus ciudadanos y promover el progreso social y económico.
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+            ●   Promover un sistema de Propiedad Intelectual actualizado y balanceado,
+                capaz de fomentar la innovación basada en IA y proteger derechos de
+                creadores e innovadores.
+
+                  ➜ Participar en instancias internacionales de diálogo y decisión sobre la
+                      regulación de IA relacionada con la Propiedad Intelectual, contribuyendo a
+                      la formación de políticas globales. Manteniendo información pública
+                      actualizada sobre estos avances.
+
+                  ➜ Impulsar el desarrollo y adopción de la IA resguardando de forma
+                      equilibrada los derechos de creadores e innovadores y promoviendo la
+                      transparencia, la ética y las buenas prácticas en el uso de IA,
+
+                  ➜ Fomentar I+D+i en IA para diversos sectores, incluyendo las industrias
+                      creativas.
+
+
+
+
+                                                                   46
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+           3.9. Cultura y preservación del patrimonio cultural
+
+        La rápida proliferación de la IA generativa ha tenido un impacto importante en el
+        ámbito cultural y artístico, planteando desafíos y oportunidades únicas en la
+        creación, propiedad intelectual y preservación del patrimonio cultural. Este
+        fenómeno ha suscitado interrogantes sobre cómo esta herramienta puede inﬂuir en
+        la producción artística, así como en la conservación y valorización de la herencia
+        cultural del país.
+
+        La integración de la IA en la gestión del patrimonio cultural abre nuevas
+        posibilidades para enfrentar desafíos como el deterioro físico de sitios y artefactos
+        históricos, la necesidad de accesibilidad ampliada a colecciones culturales, y la
+        urgencia de capturar y preservar tradiciones orales y prácticas culturales que se
+        encuentran en riesgo de desaparición. En este contexto se abre la oportunidad de
+        utilizar la tecnología para asegurar que este legado sea accesible para las
+        generaciones futuras y promueve un futuro donde la tecnología sirva para acercar a
+        las personas a su historia, arte y cultura, asegurando que el legado cultural sea
+        preservado, celebrado y compartido a nivel mundial.
+
+        En este contexto, es crucial desarrollar una política nacional de IA que aborde estos
+        desafíos emergentes y capitalice las oportunidades que ofrece la inteligencia
+        artiﬁcial para la creación y preservación del patrimonio cultural chileno, promoviendo
+        el desarrollo y uso de IA que éticas en su aplicación y que potencien la participación
+        comunitaria en la preservación de su propia cultura.
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+           ●   Desarrollar capacidades en inteligencia artiﬁcial que permitan preservar y
+               poner en valor el patrimonio cultural material e inmaterial de Chile, de
+               manera ética y sostenible.
+
+                ➜ Promover el desarrollo de bases de datos abiertas y proyectos de
+                  investigación e innovación interdisciplinarios para el desarrollo de IA que
+                  preserven y promuevan el patrimonio cultural.
+
+
+
+
+                                                  47
+
+                                               Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪ EJE N°3
+
+
+
+
+            3.10.     Ecosistema Digital Seguro
+
+        Un ecosistema digital seguro signiﬁca tener una infraestructura que priorice la
+        protección, la integridad y la privacidad de los datos frente a las amenazas
+        emergentes y los riesgos cibernéticos. Este ecosistema abarca desde la seguridad de
+        redes y sistemas hasta la protección de los derechos digitales de los usuarios,
+        pasando por el uso responsable de la IA para garantizar la ciberdefensa y la
+        resiliencia operacional.
+
+        En un mundo crecientemente digitalizado y automatizado, la ciberseguridad ha
+        adquirido especial relevancia. El signiﬁcativo aumento y complejidad de los
+        ciberataques ejecutados diariamente se suma a los diversos propósitos e intereses
+        que ellos persiguen, así como también a la multiplicidad de brechas,
+        vulnerabilidades y vectores de ataque. El constante aumento en la frecuencia y
+        soﬁsticación de los ciberataques plantea una amenaza signiﬁcativa para la
+        estabilidad de las instituciones y democracias. Estos ataques, equiparables en su
+        impacto a los ataques físicos, resaltan la necesidad urgente de abordar las
+        vulnerabilidades y brechas en la infraestructura digital.
+
+        La IA es un elemento diferenciador para mantenerse a la vanguardia en cuanto al
+        uso de las tecnologías, procedimientos, equipamiento y capacidades de la
+        ciberdefensa nacional, tanto en acciones de legítima defensa, como efectos de
+        disuasión, cuidados y manejo de crisis. De hecho, aun cuando la IA crea nuevas
+        oportunidades para ciber atacantes, esta tecnología también tiene el potencial de
+        mejorar la velocidad, precisión e impacto de la defensa operacional, así como apoyar
+        la resiliencia operacional (World Economic Forum, 2020).
+
+        Para abordar estos desafíos y oportunidades se propone:
+
+            ●   Abordar la IA como un componente relevante en el ámbito de la
+                ciberseguridad y ciberdefensa, promoviendo sistemas tecnológicos
+                seguros.
+
+                    ➜ Incorporar la IA en las estrategias de ciberseguridad y ciberdefensa.
+
+                    ➜ Fomentar el uso responsable de sistemas de IA para reaccionar a los
+                      ataques informáticos en el Estado.
+
+                    ➜ Fomentar la capacitación en las áreas asociadas a la ciberseguridad e
+                      infraestructura crítica.
+
+            ●   Estudiar impacto y realizar medidas para prevenir y combatir la
+                desinformación, la violencia digital y sus efectos en la salud mental.
+
+                                                                   48
+
+         Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+EJES DE LA POLÍTICA⎪
+
+
+
+
+                ➜ Focalizar fondos de investigación interdisciplinarios en temáticas de
+                    desinformación, violencia digital y salud mental, con especial atención a
+                    grupos vulnerables como niños, niñas, adolescentes y mujeres.
+
+                ➜   Implementar medidas educativas y de alfabetización digital para
+                    promover un uso responsable de la IA y combatir la violencia en entornos
+                    digitales.
+
+
+
+
+                                                   49
+
+                                                Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+BIBLIOGRAFÍA⎪
+
+
+
+
+       BIBLIOGRAFÍA
+BIBLIOGRAFÍA⎪
+
+
+
+
+       Banco Interamericano de Desarrollo (Ed.). (2018). Algoritmolandia: Inteligencia Artiﬁcial para
+                 una integración predictiva e inclusiva de América Latina. Planeta.
+
+       Bresnahan, T., & Trajtenberg, M. (1995). General purpose technologies ‘engines of growth’?
+                 Journal of econometrics, 61(1), 83-108. ·
+
+       Chile: artiﬁcial intelligence Readiness Assessment Report (2023). United Nations Educational,
+                    Scientiﬁc and Cultural Organization.
+                    https://unesdoc.unesco.org/ark:/48223/pf0000387216.
+
+       Índice Latinoamericano de Inteligencia Artiﬁcial (2023). Centro Nacional de Inteligencia
+                  Artiﬁcial (Cenia). https://indicelatam.cl/.
+
+       Klinger, J., Mateos-Garcia, J., & Stathoulopoulos, K. (2018, Agosto 20). Deep learning, deep
+                    change? Mapping the development of the Artiﬁcial Intelligence General Purpose
+                    Technology.
+
+       Ministerio de Economía, Fomento y Turismo. (2020). Encuesta TIC, año de referencia 2018.
+                  https://www.economia.gob.cl/2020/07/08/encuesta-tic-2018.htm
+
+       Ministerio de la Mujer y Equidad de Género. (2018). Más mujeres más ciencia. Retrieved
+                  Noviembre, 2020, from https://minmujeryeg.gob.cl/?page_id=4080
+
+       Minsky, M. (1961). Steps toward artiﬁcial intelligence. Proceedings of the IRE, 49(1), 8-30.
+
+       UNESCO. (2020). Elaboration of a Recommendation on the ethics of artiﬁcial intelligence.
+                Elaboration of a Recommendation on the ethics of artiﬁcial intelligence. Retrieved
+                Octubre 29, 2020. https://en.unesco.org/artiﬁcial-intelligence/ethics
+
+       UNESCO. (2023). Chile: Artiﬁcial intelligence readiness assessment report. Paris: UNESCO.
+                https://unesdoc.unesco.org/ark:/48223/pf0000387216
+
+       OECD. (2019). Artiﬁcial Intelligence in Society. OECD Publishing.
+                 https://doi.org/10.1787/eedfee77-en
+
+       OECD (2024), "Explanatory memorandum on the updated OECD deﬁnition of an AI system",
+                OECD Artiﬁcial Intelligence Papers, No. 8, OECD Publishing, Paris,
+                https://doi.org/10.1787/623da898-en.
+
+       Rosenblatt, F. (1958). The perceptron: a probabilistic model for information storage and
+                  organization in the brain. Psychological review, 65(6), 386.
+
+       Sence. (2022). Observatorio Laboral. Reporte Nacional Pulso de Demanda de Empleos
+                 Digitales. https://observatorionacional.cl/ publicaciones/2456. Chile.
+
+       World Economic Forum (2023). The Future of Jobs.
+                 https://www.weforum.org/reports/the-future-ofjobs-report-2023/
+
+
+
+                                                        51
+
+                                                     Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+ACRÓNIMOS y GLOSARIO⎪
+
+
+
+
+       ACRÓNIMOS
+ACRÓNIMOS y GLOSARIO⎪
+
+
+
+
+       ANID             Agencia Nacional de Investigación y Desarrollo
+
+       CENIA            Centro Nacional de Inteligencia Artiﬁcial
+
+       CFT              Centro de Formación Técnica
+
+       CTCi             Ciencia, Tecnología, Conocimiento e Innovación
+
+       I+D              Investigación y desarrollo
+
+       IA               Inteligencia Artiﬁcial
+
+       IES              Instituciones de Educación Superior
+
+       LAC              Latinoamérica y el Caribe
+
+       NNA              Niños, Niñas y Adolescentes
+
+       RAM              Readiness Assessment Methodology
+
+       TIC              Tecnologías de la Información y las Comunicaciones
+
+       UNESCO           Organización para la Educación, la Ciencia y la Cultura ONU
+
+       UNICEF           Fondo de las Naciones Unidas para la Infancia
+
+
+
+
+                                                 53
+
+                                            Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+ACRÓNIMOS y GLOSARIO⎪
+
+
+
+
+       GLOSARIO
+ACRÓNIMOS y GLOSARIO⎪
+
+
+
+
+       5G: Es la quinta generación de dispositivos y redes móviles, que se caracteriza por ser
+       una tecnología inalámbrica de alta velocidad, gran capacidad y baja latencia (tiempo
+       de respuesta de la red).
+
+       Algoritmo: Conjunto ordenado y ﬁnito de operaciones que permite generar la
+       solución de un problema digital. Designa una serie de instrucciones que deben ser
+       ejecutadas en forma automática por un ordenador. Los algoritmos se aplican en
+       todos los ámbitos, desde las consultas a través de dispositivos de búsqueda y la
+       selección de información sugerida a los internautas, hasta los mercados ﬁnancieros.
+
+       Anonimización: Expresar un dato relativo a entidades o personas, eliminando la
+       referencia a su identidad.
+
+       Automatización: Aplicación de máquinas o de procedimientos automáticos en la
+       realización de un proceso o una industria.
+
+       Computación de alto rendimiento (HPC): Usar la potencia de cálculo para resolver
+       problemas complejos en ingeniería, gestión y ciencia. Para ello, se sostiene en ciertas
+       tecnologías computacionales como los supercomputadores o la computación
+       paralela.
+
+       Dato: En el contexto de la IA, corresponden a una observación, representación o
+       sampleo de fenómenos reales, que funcionan como materia prima para los
+       algoritmos, y que permite entrenar y mejorar algoritmos y modelos apuntando a
+       explicar o predecir los fenómenos representados o sampleados u observados
+
+       Data center: Espacio donde se concentran los recursos necesarios para el
+       almacenaje, procesamiento y distribución de la información de una organización.
+       Entre sus características principales se destacan el almacenamiento, distribución y
+       tratamiento de los datos.
+
+       Explicabilidad: Este término hace referencia a métodos y técnicas que permiten
+       entender cómo se han obtenido los resultados o predicciones de un algoritmos
+
+       Fibra óptica: Hilo o haz de hilos de vidrio altamente transparente por el cual se
+       transmite información a grandes distancias mediante señales luminosas. Este cable
+       es instalado por las compañías de telecomunicaciones para transmitir datos a alta
+       velocidad.
+
+
+
+
+                                                  55
+
+                                               Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+ACRÓNIMOS y GLOSARIO⎪
+
+
+
+
+       Gobernanza: Proceso a través del cual diversos actores de una comunidad
+       —incluidos el gobierno, el sector privado, la ciudadanía y la academia— interactúan y
+       toman decisiones colectivas para dirigir y regular espacios y temáticas comunes para
+       lograr un desarrollo sostenible.
+
+       Inteligencia Artiﬁcial (IA): Sistema computacional que puede, para un determinado
+       conjunto de objetivos deﬁnidos por humanos, hacer predicciones y
+       recomendaciones o tomar decisiones que inﬂuyen en entornos reales o virtuales.
+
+       Participación equitativa: Participación desde la promoción de un acceso más
+       generalizado a las oportunidades económicas, sociales y políticas
+
+       Pensamiento computacional: Es la capacidad de un individuo de analizar y resolver
+       problemas utilizando habilidades adquiridas que son propias de la computación y
+       del pensamiento crítico, entre otras.
+
+       Reconversión laboral: Proceso por medio del cual se propone adaptar a las personas
+       a las nuevas conﬁguraciones laborales, como lo son, por ejemplo, las nuevas
+       tecnologías.
+
+       Reconversión (o Reskilling): Capacitación de trabajadores en una nueva habilidad
+       como respuesta al cambio tecnológico en la organización. En otras palabras, supone
+       un “reciclaje profesional” de las/los trabajadores.
+
+       Sandbox: Sistema de aislamiento de procesos o entorno aislado, a menudo usado
+       como medida de seguridad, donde se prueban de forma segura nuevas tecnologías.
+
+       Sesgo: Error sistemático en el que se puede incurrir cuando al hacer muestreos o
+       ensayos se seleccionan o favorecen unas respuestas frente a otras.
+
+       Software: Conjunto de programas y rutinas que permiten a la computadora realizar
+       determinadas tareas.
+
+       STEM: Acrónimo de los términos en inglés Science, Technology, Engineering and
+       Mathematics (ciencia, tecnología, ingeniería y matemáticas).
+
+       Transformación digital: Cambios asociados a la aplicación de tecnologías digitales
+       en todos los ámbitos de la vida cotidiana y la sociedad
+
+
+
+
+                                                                  56
+
+        Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+ACRÓNIMOS y GLOSARIO⎪
+
+
+
+
+       Tecnología de nube (computación en la nube): Modelo de servicios vía internet que
+       ofrece acceso escalable a recursos computacionales como almacenamiento y
+       software. Facilita ﬂexibilidad, eﬁciencia y ahorro de costos, permitiendo a usuarios y
+       organizaciones centrarse en sus objetivos principales.
+
+       Tecnología de propósito general: Corresponde a una tecnología que tiene el
+       potencial de impactar las estructuras sociales y económicas de toda la sociedad.
+
+       Capacitación (o Upskilling): Capacitación adicional que reciben las trabajadoras/es,
+       la cual les ayuda a mejorar sus competencias personales y así, desempeñar de
+       manera más eﬁciente las tareas de su trabajo.
+
+       Última milla: Tramo ﬁnal de una línea de comunicación, ya sea telefónica o un cable
+       óptico, que llega al usuario ﬁnal
+
+
+
+
+                                                 57
+
+                                              Política Nacional de Inteligencia Artificial | ACTUALIZACIÓN 2024
+minciencia.gob.cl
+Política Nacional de
+Inteligencia Artificial
+
+ACTUALIZACIÓN 2024
+
+
+
+
+     minciencia.gob.cl
