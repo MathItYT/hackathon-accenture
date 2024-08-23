@@ -14,5 +14,6 @@ dependencies = [
     "langchain-openai",
     "langchain-core",
     "langchain-community",
+    "faiss-gpu",
     "gradio"
 ]
