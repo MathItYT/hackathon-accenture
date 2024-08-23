@@ -16,6 +16,9 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from hackaton.utils import constants, environment
 
 
+environment.load_env()
+
+
 class Clasificador(BaseModel):
     """
     Clasifica el tipo de consulta para el uso especifico de texto
