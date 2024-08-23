@@ -11,7 +11,7 @@ git clone https://github.com/MathItYT/hackathon-accenture.git
 
 2. Instalar el **código y sus dependencias**
 ```bash
-pip install .
+pip install -e .
 ```
 
 3. Ir a la carpeta `hackaton-accenture` y crear un archivo `.env` con la siguiente variable de entorno:
